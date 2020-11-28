@@ -1,0 +1,932 @@
+,productType,description,origin,links,id
+0,Protein subunit,Spike protein; VaxiPatch microneedle array dermal patch,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,007374a9199cbf884892fb90bbb8241f
+1,Antibodies,"Remsima (infliximab), anti-TNF antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,01fea51894afdf874adc5a7595bbffa7
+2,Virus-like particle,"Enveloped virus-like particle (eVLP): Pan-coronavirus vaccine candidate, targeting COVID-19, SARS, and MERS, spike protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0263fec6802771292ae36e73f2a73c57
+3,Other,"nafamostat, approved in Japan to treat pancreatitis and other diseases",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,030a34cac0ff6064c8fadd0b33e7f377
+4,Protein subunit,Spike-based (epitope screening),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,031acb82c8ca55b84c752ffeb053910d
+5,Other,"brensocatib, oral, reversible inhibitor of dipeptidyl peptidase 1 (DPP1)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,03804d4014fb681512492f2b81cf47c0
+6,Cell-based therapies,"NoveCite cells (NC-MSCs), mesenchymal stem cells derived from a single donor's fibroblasts",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,03ef62250d5a8434d0cf382166b56a5c
+7,Other,"Aplidin (plitidepsin), approved in Australia to treat multiple myeloma",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,041703139b292b3f74455f8a8866c255
+8,Cell-based therapies,"DWP710, a mesenchymal stem cell therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,052e53bdd21e2d63eb06fea57ccf08ef
+9,Other,"Farxiga (dapagliflozin), sodium-glucose cotransporter 2 (SGLTs) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,05e3ce7f1ef1d772daf1957c28871f2f
+10,Antibodies,Horse plasma product (COVID-EIG),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,06681cef0e3a4b42406096df905453fe
+11,Scanning compounds to repurpose,Scanning compound libraries,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,06c68bcb6502fb58bc81c1ae93c06bef
+12,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,06e42219bfe9329e30ee5d9f9e2923d3
+13,Other,"DIBI, iron-binding polymer",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0770855b733725f70a10443d58c8da38
+14,Antivirals,Neurosivir (NA-831),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,088335c38eabc41d0b4682a772ef3a25
+15,Other,"Cenicriviroc, chemokine receptor 2 and 5 dual antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,08a08310aa8673de1d6cdd3d99ae1d52
+16,Replicating viral vector,Replicating viral vector; measles vector (V591),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,092c277bdfdedfd63fc45a48c8006665
+17,Other,"AT-001, aldose reductase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,093c8a220374b81fb655e7a95152fed2
+18,Antibodies,Antibody combination REGN-COV2 (REGN10933+REGN10987) against the spike protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,09c06c9fcbd4d3322334612741e52074
+19,Unknown,Multitope Peptide-Based Vaccine (MVP); UB-612,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,09cfee309e1866a82acda75a88731abb
+20,Other,"Cinvanti (aprepitant), a substance P/neurokinin-1 receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,09d6e83cd7d4c021fa2a7dec5a336967
+21,Other,LEAPS COVID 19 conjugate; Peptides targeting the NP protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0b7dfc8ee9c4d1b148b58957d5935ac4
+22,Replicating viral vector,Attenuated Influenza expressing an antigenic portion of the Spike protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0c463cd1003c7b221a8195e95c4a0d42
+23,Device,LungFit (with ultra-high concentrations of nitric oxide),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0cddff5920a06f420e9b13a851e31dd1
+24,Cell-based therapies,Umbilical cord-derived mesenchymal stem cells,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0d2c457041c60bc3805ad4553924139b
+25,Other,"Levaquin (levofloxacin), a fluoroquinolone antibacterial",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0de2d38abf0946d3f31344b914893a63
+26,Other,"Coronzot, a novel family of drugs, sequestration of the labile iron",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0f5f8ec13251ad0c6b6753d3b3d736c9
+27,RNA-based vaccine,"Self-amplifying
+  RNA",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0fad64f847d0688ea1b9815733074982
+28,Scanning compounds to repurpose,Scanning compounds to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,0fe601e9923aa2517769defe737259a0
+29,Virus-like particle,VLP,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1059e1c9ae3292a2392ec735f3207951
+30,Antivirals,"Daklinza (daclatasvir), hepatitis C virus (HCV) NS5A inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,108915b03ac2f57c9de4e4e8fc4a0f04
+31,Antibodies,Antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,109c660f32add1cdd4fcda2bffddfc7a
+32,Antivirals,"EIDD-2801, oral ribonucleoside analog",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,10f9eb815ff09d3bdd934e5752c7a142
+33,Other,"ADX-1612, HSP 90 inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,110668ced011b67f4086179398c9b385
+34,Replicating viral vector,VSV-S,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1116ce252265554dc53e726de5de4a9a
+35,Protein subunit,"Protein subunit, drosophila S2 insect cell expression system VLPs",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1168658069c94b653afebc91060a70fe
+36,Unknown,"Self-assembling vaccine (fusion protein of a heat shock protein and Avidin, with biotinylated immunogenic peptides)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,11980b56825d5b60f85caf0b88f48454
+37,Cell-based therapies,Autologous Adipose-Tissue Derived Mesenchymal Stem Cells (ADMSCs),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,11f1917375bb99184258262931d1cd0f
+38,Other,"Eritoran, TLR-4 antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,120a068ab6c96a5d0a531974178a4d45
+39,DNA-based,"DNA plasmid, CoVAXIX",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,12abdeb0002370814bc9471ab09d1ef7
+40,Protein subunit,Protein subunit; COVID-19 XWG-03 truncated Spike proteins,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,13979497bb057e29a6054c8c4414af8d
+41,Other,APN01; recombinant soluble human Angiotensin Converting Enzyme 2,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,13f62f66162709cd52639fc601339f7d
+42,Antibodies,"TY027, monoclonal antibody targeting SARS-CoV-2",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,14191392e1f9c81c6ac789eb3efd5e89
+43,Protein subunit,Protein subunit,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,147b788e82a47202abcd17f5433e7793
+44,Other,"Ryanodex (dantrolene sodium), skeletal muscle relaxant",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,14ad579cf038a512b05d7871b6b21ee8
+45,Antibodies,Polyclonal antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,153ff1f69961178e924fa58855f21374
+46,Inactivated virus,Inactivated (inactivated + alum),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,15dfb8252f7d3539eb542b2be4aac8d5
+47,Protein subunit,"Baculovirus-insect cells expression system, spike (S) protein (tAdimrSC-2f)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,16604c4eb2a97eaebdba7d9d33ff2980
+48,Cell-based therapies,"ACT-20, allogeneic cell preparation of mesenchymal stem cells from umbilical cord tissue",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,17c4dedc56a05cdd48ed319e72ac74e3
+49,Other,Flarin (lipid ibuprofen),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,17cb8594074244faae54012ae260e292
+50,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,180786cd1f62a38e3a65aaa56d4abfb0
+51,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,18a5bb8964c126ba5bb766487356b781
+52,Protein subunit,Recombinant fusion protein of the SARS-CoV-2 spike protein S1 domain and human IgG Fc (T-VIVA-19),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,19861772f2d4ae5f5c1651fe96979cfb
+53,Replicating viral vector,Replicating viral vector; VSV vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1a29ede7c38db4e4f861038935b9b0de
+54,Other,"tradipitant, a neurokinin-1 receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1ab2ae28298291b53c16f6a3471291f0
+55,Antivirals,"Selzentry (maraviroc), a CCR5 co-receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1b54949115b29447b7a3c568843d37b8
+56,Device,"gammaCore Sapphire CV, vagus nerve stimulation device",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1ba7a770f38001e249ba45f2c2ff1b92
+57,Other,Rebif (interferon beta-1a),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1c688a4c421261be83027640997153f5
+58,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1c90de01a06169e69e833d0c41390908
+59,Virus-like particle,VLP,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1ce45b908805fec4f4285b16a54642ec
+60,Non-replicating viral vector,Adenovirus-based + HLA-matched peptides (Pan-Corona),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1d67724ee1c84962dedc8eb26afb4e9e
+61,Dormant / Discontinued,"Combination of ebastine, lopinavir, and interferon alpha
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1d924a48f271cf4cb631a0479f0c3711
+62,Protein subunit,RBD protein (baculovirus production) + FAR-Squalene adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1da890229d8f8ebe079d84821579bfdd
+63,DNA-based,"DNA plasmid vaccine S, S1, S2, RBD & N",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1dfda00f44b820bed5f20c7b74752ac2
+64,Antibodies,Antibodies (OmniChicken platform),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,1fe41b7b2b2f3e3308e5031b78d27aeb
+65,DNA-based,DNA plasmid vaccine with electroporation; INO-4800,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,204fb63f749bff202aac51cd2b9c3d52
+66,Virus-like particle,VLP (COVID-19 and SARS1),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,224f39975b1d0243f747fc38ae429832
+67,Other,"M5049, small molecule that block the activation of Toll-like receptor (TLR)7 and TLR8",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,22eac0d45a58ffe913bd0654b8bdf542
+68,Protein subunit,"Protein subunit, recombinant protein  ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,23bf1bcfb6fad7aa24c563d87adbcf55
+69,Non-replicating viral vector,"Non-replicating viral vector; [E1-, E2b-, E3-] hAd5-COVID19-Spike/Nucleocapsid",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,24a31941eff775f872f5ab7345de01eb
+70,DNA-based,DNA plasmid (ZyCoV-D),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,272662099511c288b6e4a8037756d1b8
+71,Antibodies,"meplazumab, anti-CD147 antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,273c4efb0d8ef8f6d5eb311b9685f620
+72,Other,"MSTT1041A (anti-ST2, the receptor for IL-33)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,27615057e6811427d1f638652a384547
+73,Scanning compounds to repurpose,Screening a chemical library of 500 billion molecules,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,27f79027b98e5c7b3c298b55b6b99fa2
+74,Dormant / Discontinued,"AiRuiKa (camrelizumab), anti-programmed cell death protein (PD-1) antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,29614941620aa9da4b966597bcecc13b
+75,Other,Nangibotide,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,299130e82b6ac2d3bc308ca7c9fb1696
+76,Antibodies,"rCIG (recombinant anti-coronavirus 19 hyperimmune gammaglobulin), polyclonal antibodies",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,29cfd8220149376d16f9b85464d8c05f
+77,Antibodies,"GC5131A, plasma derived therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2abf7f4407ee06f4f2c6fb174a1bfb2b
+78,RNA-based vaccine,mRNA in targeted LPNs (Langerhans cell specific),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2b7137c170857f0095bfad4f10bf269e
+79,Other,"SNG001, inhaled formulation of interferon beta-1a",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2d10cf2da23c0f2a61b99355aed2fb26
+80,Other,"Calquence (acalabrutinib), Bruton's tyrosine kinase (BTK) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2dcfcf512f05071f97789b194082c839
+81,Other,solnatide (synthetic molecule with a structure based on the lectin-like domain of human Tumour Necrosis Factor alpha),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2e8d63d87cc63af5d40291a519391d5b
+82,Non-replicating viral vector,Non-replicating viral vector; Adenovirus Type 5 vector (Ad5-nCoV),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2e93c0097461fff9d2450f761ed7ab18
+83,Live attenuated virus,Codon deoptimized live attenuated vaccines,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,2f07483340acd343f670673ce02f1243
+84,Cell-based therapies,"Ryoncil (remestemcel-L), allogenic mesenchymal stem cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,300f44b06953592170bba5b97f7ef560
+85,Dormant / Discontinued,"Gilenya (fingolimod), sphingosine 1-phosphate receptor modulator",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3015c929962277506dbf321a5a1a0964
+86,Other,"apabetalone (RVX-208), selective BET (bromodomain and extra-terminal) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,30a6c334f8fb7f412094495634890941
+87,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3157004548fd0de9be34bb14a4ca3471
+88,Non-replicating viral vector,Non-replicating viral vector; replication defective simian adenovirus encoding SARS-CoV-2 S (GRAd-CoV2),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,31adaac436bd59027f09be1707df4519
+89,Replicating viral vector,Replicating viral vector; VSV-S,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,31b23f6ffac67d4fce5bd5232f396c8f
+90,Antibodies,"lenzilumab, anti-granulocyte-macrophage colony stimulating factor antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,31f237fc19b86559b5c14006265a4e60
+91,Antibodies,PD-1 blocking antibody; Thymosin,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,326233aa6e66fd9211be345c7ab5aa7e
+92,Non-replicating viral vector,"AdCOVID; single-dose, intranasal vaccine; non replicating viral vector; adenovirus-based NasoVAX expressing spike protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,32bbd3f7f59ad250189c13454ec8201a
+93,Cell-based therapies,"AlloRx stem cells, umbilical cord mesenchyma stem cell therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,337f5c10962dcdc992cbb5cc47492626
+94,Other,"pacritinib, oral kinase inhibitor with specificity for JAK2, IRAK1 and CSFIR",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,33c8602af22a51ef47607259427a1271
+95,Other,"Vascepa (icosapent ethyl), a form of eicosapentaenoic acid",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,341c0b89bdbb89afa9b2992c2b2002ab
+96,Antivirals,"remdesivir, nucleotide analog",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3430415022e9a313afc31521e2501c72
+97,Other,"WP1122, glucose decoy prodrug (and related drug candidates)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3469956a470e51a91c3bdfc5bef293c3
+98,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,34b89c04551b607b3624669780cc23b5
+99,Replicating viral vector,"Replicating viral vector, influenza vector expressing RBD",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,34d7dfe230e722ae99574f38c72d83da
+100,Other,"dipyridamole (Persantine), anticoagulant",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,360af64b4cddd3fd6380b0285f314503
+101,Protein subunit,"PittCoVacc, Protein subunit, microneedle arrays S1 subunit",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,361a2a73817b68485d738a353cf96964
+102,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,36749c2cbec583e749f2e7dea818a1fb
+103,Other,New drug based on a sugar found in human milk,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3779a2c948f4b0247164455bb9804581
+104,Protein subunit,Protein subunit EPV-CoV-19,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,377b158ec92fe9e8a7fa5f896b3675dd
+105,Protein subunit,Outer Membrane Vesicle (OMV)-subunit,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,37b483f92d53c87bc39092600fb182f7
+106,RNA-based vaccine,RNA; mRNA (DS-5670),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3800e8fc25d5cec4c1b0d8e033ed8c92
+107,Other,"vazegepant, CGRP receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,384057be8391b920fbf268f08322a102
+108,Non-replicating viral vector,Non-replicating viral vector; MVA-S encoded,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,39dc9437f37913a4f0fd2ff263b619a4
+109,Unknown,Artificial antigen-presenting cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,39dd89c51acf1f98ad351862549ba9af
+110,Other,"DSTAT (dociparstat sodium), glycosaminoglycan derivative of heparin
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,39e9227fb33080a2b40fe173be0c1ec6
+111,Other,"TD139, specific inhibitor of galectin-3, inhalation powder",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3b1ffbb98861a6e699d254ad3778cd59
+112,DNA-based,DNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3b2f31cafff12649cfc3a015088e88bf
+113,Other,PUL-042 inhalation solution,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3bc234cfa0c6dd6b23d95057afa0244d
+114,Antibodies,"Avastin (bevacizumab), vascular endothelial growth factor inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3bf1e29b03f89e576d5c362dec22b77e
+115,Other,"Kineret (anakinra), interleukin-1 receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3c5fbc4b3c03b7986b1ab66fed983e33
+116,Antivirals,AB001,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3d2eb784bae7e5dbb64f1c536bc57f24
+117,Antivirals,"Truvada (emtricitabine and tenofovir, both HIV-1 nucleoside analog reverse transcriptase inhibitors)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3e1e48bbdbe6a3cb744fd932c6931bd7
+118,Antibodies,Antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3e445452393874742e0897a425580b22
+119,Replicating viral vector,Newcastle disease virus vector (NDV-SARS-CoV-2/Spike),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3e5211037fb40fffb7b6bed04f3edf74
+120,RNA-based vaccine,RNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3ebc1139c65137fac1fcc66c4c774fb1
+121,Other,"ATYR1923, fusion protein (immuno-modulatory domain of histidyl tRNA synthetase fused to the Fc region of a human antibody) modulator of neuropilin-2",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3ecf12bd88b127c530a7d1c37ea0e8c1
+122,Cell-based therapies,"MultiStem, bone marrow stem cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3f89d566e89afdbbe70ff6013904fcf5
+123,Other,"proxalutamide (GT0918), anti-androgen",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3f8ada6bfc59d6588dacde94ec3ae2aa
+124,Protein subunit,"Orally delivered, heat stable subunit",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,3fafdd6ff4288140c9d1f1cd47965421
+125,Non-replicating viral vector,Non-replicating viral vector; MVA encoded VLP,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,40915067d08c5808934d5568e70e1f1f
+126,RNA-based treatments,Ampligen; (rintatolimod),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,41750eb5e9fade9186d5482ebec9e2c6
+127,RNA-based treatments,VIR-2703 (ALN-COV) siRNA candidate,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,42262470a9d702f16a7b9aba624d0e5b
+128,Virus-like particle,VLP + Adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4251eda91190943fd9ad58f0c2979e0b
+129,Non-replicating viral vector,Non-replicating viral vector; dendritic cell-based vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,447f3d12d559fc108e6d1eaecaea7e44
+130,Virus-like particle,VLP; unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,44c4e9fe9f9bf7a27fa9bb50284484a5
+131,Dormant / Discontinued,"Kevzara (sarilumab), interleukin-6 receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,44d739e79079a080c26a9cca6684517e
+132,Antibodies,"Gimsilumab, anti-granulocyte-macrophage colony stimulating factor monoclonal",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,44ff4e91441ee574e07a2c5e0e8518b7
+133,Cell-based therapies,"haNK, natural killer cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4543cd7ebf9ab6614e229f34f9618bfc
+134,Other,A number of synthesized nanoviricide drug candidates,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4571c0e8ded3f331202df8eb1ceb1d57
+135,Other,"Leukine (sargramostim, rhu-Granulocyte macrophage colony stimulating factor )",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4635da24f99e13f1b2033e8a2e1e1fc4
+136,Protein subunit,"Protein subunit, synthetic long peptide vaccine candidate for S and M proteins",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,46418a60108d75372ceb3d37fdc06e50
+137,Non-replicating viral vector,Non-replicating viral vector; parainfluenza virus 5 (PIV5)-based vaccine expressing the spike protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,467e7a915ed9165ca8de68a75c54c4b4
+138,Antivirals,Antiviral drug combinations,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4683c956ab4b8d3bc4eb9c012800b607
+139,Other,Nitric oxide,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,469bb9d1b376d54dcffec23605501229
+140,Cell-based therapies,"CYNK-001, allogeneic, natural killer cell therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,46a2e347366a8ca1f9e2b18ad2f249ca
+141,Unknown,unknown; IMT504 technology,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4770c33312245e34e0c9f1962393a2e4
+142,Replicating viral vector,Replicating viral vector; horsepox vector expressing S protein; TNX-1800,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,48521db3503c528f93c5d11f329727ce
+143,Non-replicating viral vector,"AAVCOVID, Adeno-associated viral vector (AAV), spike protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4939b003f550fdd664adfce5dcb20b04
+144,Cell-based therapies,"BCDA-4, bone marrow-derived allogenic neurokinin-1 receptor positive mesenchymal stem cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,49607527cd905538c6d6688ab706085b
+145,Antivirals,"GC376, protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,496f298e64094286ab423128bf91cb73
+146,Other,Methylprednisolone/ ciclesonide (Alvesco)/ hydrocortisone/ corticosteroids,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,499a02199fc1a030ce0e903927dbede2
+147,DNA-based,DNA plasmid vaccine RBD&N,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,49eeeb06e1a16a322bc051c12124c9bd
+148,RNA-based treatments,RNAi - testing 150 RNAis,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4a04ca3d3881c029ae19fec2bdb4e792
+149,Antibodies,Monoclonal antibody cocktail,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4b58fbd999b5148df92e1f247aa5661e
+150,Dormant / Discontinued,Recombinant ACE2 (angiotensin-converting enzyme 2),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4c2fdd135db775c87ae5be10b4db3e77
+151,Protein subunit,Outer Membrane Vesicle (OMV)-peptide,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4cc21b30dfb5c74017affcaa9cbc0ac6
+152,Other,"MN-166 (ibudilast), orally bioavailable, small molecule macrophase migration inhibitory factor (MIF) inhibitor and phosphodiesterase (PDE) -4 and -10 inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4cdb13d61c79bbb95fe28819db398d2d
+153,Antivirals,"Atazanavir, protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4d12f0c720724def7d134dd2e28e9c6d
+154,RNA-based vaccine,RNA; Replicating defective SARS-CoV-2 derived RNAs,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4d760b7e4587e71ed3915f5607763c9f
+155,Antibodies,"Soliris (eculizumab), complement inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4dc6299c291464db6d4cd4e919f720f7
+156,Protein subunit,OMV-based vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,4dee75fe7bca27a52aa7399392a87671
+157,Antibodies,Antibodies (OmniRat platform),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5043639e0c17b0844f65cf45255f1616
+158,Virus-like particle,VLP; eVLP,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,51256429eed359af37bc530746ce7932
+159,Scanning compounds to repurpose,Identify novel drugs,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5139e2c861e80135a9ef3ba899757c44
+160,Inactivated virus,Whole-Virion Inactivated (COVAXIN),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,51703cfe44da7e6eabce95b58405ee01
+161,Replicating bacterial vector,Oral Salmonella enteritidis (3934Vac) based protein expression system of RBD,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,524c4eafdd63367ae4d8e04c6c53b9e2
+162,RNA-based vaccine,RNA; mRNA in an intranasal delivery system (cross-strain protective COV-2 mRNA) vaccine for high-risk populations,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,52bcffaf0aae5302b512a4523180b56c
+163,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,537ceaa0871de713bdf4c3fe503ba610
+164,Scanning compounds to repurpose,Repurposing antiviral drug candidates,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,542c7b99ebe77a433dfc7b256b25bdee
+165,Antibodies,"BDB-100, monocloncal anti-C5a antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,55510ec034c64a09b74e7e1804c6096c
+166,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,559d223ac2de939753ce577248d199b3
+167,Cell-based therapies,Autologous Adipose-Tissue Derived Mesenchymal Stem Cells (ADMSCs) and allogeneic MSCs,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,55aa2f46c4326c6d4863c4172b25efbb
+168,Other,"Xpovio (selinexor), oral, selective inhibitor of nuclear export (SINE) compound",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,55b21687b026e8195103b2691ff397d5
+169,Protein subunit,"Protein subunit, nanoparticle vaccine",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,564537a9362634620430d5a6f232b1e6
+170,RNA-based vaccine,LUNAR-COV19; RNA; mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,568db283b10394ad37916c11f3989ada
+171,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,573dcb600850441e4a261a3a020b5aa4
+172,Antibodies,Polyclonal hyperimmune globulin (H-IG),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,57f4c9d4b36926c49a84fb7d52d5d95e
+173,Protein subunit,"Protein subunit, adjuvanted microsphere peptide",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,589903d06fa90b2ca62ab27b9fe0c171
+174,Antibodies,Antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,595c1ca9432f0d320ed6146194cc55db
+175,Antivirals,"SLV213, cysteine protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5a44d4fa0a7986ae0397afa5a27b2e4c
+176,Protein subunit,"Peptide vaccine, EpiVacCorona",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5a9ec3eeffa9319083d4039de5b6abec
+177,Other,"piclidenoson, A3 adenosine receptor agonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5afca623a6a06c0011b34c4252e2326b
+178,Protein subunit,Peptides derived from Spike protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5c7cf826f4a8010bc95f938500f490e3
+179,Antibodies,Polyclonal hyperimmune globulin (H-IG),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5d132766240dfcb4805cfeb1a3072572
+180,Scanning compounds to repurpose,AI-based screening to identify a peptide cocktail,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5d146258b2bf2830aefef757e773744e
+181,RNA-based vaccine,RNA; LNP-encapsulated mRNA cocktail encoding RBD,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5d211c1eb8c1673f4cf3677353fc87c6
+182,Other,"Activase (alteplase), tissue plasminogen activator (tPA)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5e308a0cbb140e2379cc9f1aebd77792
+183,RNA-based treatments,Inhaled mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5eb3c2c2c0099463cbafde3859db38e9
+184,Antibodies,"VIR-7831 and VIR-7832, antibodies from recovered SARS patients",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5eb87284d3e4a2354c6dcab096fc3571
+185,Protein subunit,Protein subunit; S protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5f349dcad2c8c61c4b114712402d48b0
+186,Protein subunit,RBD protein fused with Fc of IgG + Adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,5fe49292607266b2fc07ae3f1baa91a0
+187,Cell-based therapies,"StemVacs, universal donor natural killer cell-based therapy ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,606ec8e3e2c393e977a8a7a0dc148cc1
+188,Antivirals,galidesivir,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,608c8979e465555de5d087687b343613
+189,Protein subunit,Peptide + novel adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,61043f967d7b32b6b1040bd25b535981
+190,Scanning compounds to repurpose,Scanning compounds to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,61e092e66f7bf5fb584839d583a1f554
+191,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,62ba7f0a85b916ca8d301add24a0ab3d
+192,Protein subunit,Protein subunit; Full-length recombinant SARS COV-2 glycoprotein nanoparticle vaccine adjuvanted with Matrix M (NVX-CoV2373),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,63de19be4f34019e04c0a8ec225b9ec9
+193,Other,"N-803, IL-15 ""superagonist"" (Nogapendekin alfa inbakicept)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,64598f645f07a4bec2b2f7df7f965610
+194,Antibodies,"SAB-185, Polyclonal hyperimmune globulin (H-IG)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,645cb48fbca75fe10b62d6b5f903513e
+195,Protein subunit,Protein subunit,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,645e4b3de30178f1cc249cff28dd0649
+196,Other,"leflunomide, pyrimidine synthesis inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6519c73dd090cd12d03da969d5d45dbe
+197,Non-replicating viral vector,Adenovirus-based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,65a43d5d6d117d4c315834c004cc4c3b
+198,Protein subunit,MVC-COV1901 vaccine injection; S-2 P protein + CpG 1018,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,65e19c6098380f6f02b66112a7f14cc2
+199,RNA-based vaccine,srRNA (EXG-5003),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,665b1ca850f99e3e3f3716b28f942fc3
+200,Inactivated virus,Inactivated,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,66c6ae3eba9e0a9a7339e6c6b072bdc0
+201,Other,"Nocions, molecules that either selectively block Nav 1.7 or antagonize large-pore channels",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6720a8f034826d847a9a781ee18ab8cb
+202,Device,Oxiris Blood Purification Filter,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6728e4c3b582f85aef6cc251b7e8c59d
+203,Non-replicating viral vector,Recombinant deactivated rabies virus containing S1,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,67ead27ee246d4e3bb2b4713d320a6cc
+204,Cell-based therapies,"MSV_allo, allogenic mesenchymal stem cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,682ab98f7ded93af49870bef2bde5bb5
+205,Non-replicating viral vector,Sendai virus vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,68e9257d0d7e632e75066de571337afc
+206,Protein subunit,S subunit intranasal liposomal formulation with GLA/3M052 adjs.,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6955ba4c3d944a4ef9e063224b46a3f1
+207,Antibodies,"TJM2 (TJ003234), anti-granulocyte-macrophage colony stimulating factor antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6afe83a07d6394b7757fab287f8d885d
+208,RNA-based vaccine,"3 LNP-mRNAs; BNT162
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6b737ba217125f4cd9dc8defe29e7003
+209,Antivirals,Levovir (clevudine),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6bac0b393f9a14009dfe66e96c10d5a9
+210,Protein subunit,Protein subunit; plant virus nanotechnology formulated as injectable and microneedle patch,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6d1501e35667b3a529fd89d41ef3ee87
+211,Scanning compounds to repurpose,Identifying drugs to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6d4866875d15eab66bdf28c7a51f0220
+212,RNA-based vaccine,RNA; LNP-encapsulated mRNA cocktail encoding VLP,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6d80a6153f7db0755e4337e406f07c5e
+213,Antibodies,Linked nanobody antibody,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6df2c87dd59c57396ab7e4ea4939cd19
+214,Protein subunit,Protein subunit; S protein (DIOS-CoVax2),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6e1dfd41b2cd7f3dbb80cdcdbe876c9d
+215,Antivirals,Prophylactic antiviral CRISPR in human cells (PAC-MAN),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6e23ef8573a2129855a351b28324c403
+216,Dormant / Discontinued,"azvudine, reverse transcriptase inhibitor
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6eb3edab76af6b47850e52b99a341c5e
+217,Replicating viral vector,"Replicating viral vector, recombinant vaccine based on Influenza A virus, for the prevention of COVID-19 (intranasal)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6ec6fd8840b62784971af3e32a2eced9
+218,Antibodies,"COVID-19 Immunoglobulin, plasma derived
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6f52bb2f03a676d64b3380e99a3aaf32
+219,Replicating viral vector,"Replicating viral vector, replication-competent VSV chimeric virus technology (VSVdeltaG) delivering the SARS-CoV-2 Spike (S) glycoprotein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,6fa9d55b56ebe09d654d36c6a4501601
+220,Other,"Olumiant (baricitinib), Janus kinase (JAK) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7015bf54380681c77c096b43cf412381
+221,Antibodies,Super-antibody or antibody cocktail to target potential mutations of SARS-CoV-2,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,71563e5fb4ade5ac68879e273da4cf99
+222,Other,"RHB-107 (upamostat, WX-671), serine protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,73662b7c4d973793b6164a08cd382d01
+223,Protein subunit,Recombinant S protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,73ed9fd4d53cdcef2c57f126c4357420
+224,Cell-based therapies,Dental pulp-derived mesenchymal stem cells,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,742e274cadac7190c59384a86f452c7d
+225,Other,"Metablok (LSALT peptide), selective dipeptidase-1 antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,744d04c72906902970eeb6bf78ae0b39
+226,Antivirals,Virazole (ribavirin for inhalation solution),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,74a1b4edd1aeaf51c0fe671d86ce0482
+227,Protein subunit,Protein subunit; adjuvanted protein subunit (RBD),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,74d5539836b47af102ec5e99204e4af8
+228,Inactivated virus,Inactivated whole virus,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,751b44e68cca4e5877cbc913cb23416a
+229,Antibodies,"Polyclonal hyperimmune globulin (H-IG), unbranded",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,75434a456c668274de2bda9866bd3b2d
+230,Other,"Organicell Flow, acellular product derived from amniotic fluid ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7566b5ceaa907ce82f141be26c2f68cd
+231,Other,"Zilucoplan, a synthetic macrocyclic peptide inhibitor of the terminal complement protein C5",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,76d3fc793d248475411f6e5e654fdac5
+232,Other,Peptides,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7734caf41a00fcfd3335560df993c41c
+233,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7747e619efd40ff5b0409af4f5703c77
+234,Other,recombinant human plasma gelsolin (rhu-pGSN),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,78dcb14284f9fae11e7ead42d2a48b27
+235,Other,"Entresto (sacubitril, a neprilysin inhibitor, and valsartan, an angiotensin II receptor blocker)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,794a4720b990ba63253ad5c27dccfefb
+236,Cell-based therapies,"AgenT-797, allogeneic invariant natural killer T cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,79bbf3618c8746cb3be4d1fb18734f4d
+237,Antivirals,"ASC09, HIV protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7a140db7b538f4da111a46b35b9f832f
+238,Protein subunit,Protein subunit,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7a2bfb177c0fd2550a691d474c099f2f
+239,Virus-like particle,Hepatitis B surface antigen (HBsAg) VLPs,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7a4c7ce0fe95f6cd29b1f7ae8e032063
+240,Virus-like particle,VLP; ADDomerTM multiepitope display,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7a923b445a7fab4ce2effcf9e6fe634d
+241,Scanning compounds to repurpose,Screening new drugs + library of antiviral compounds,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7aa7f721fa7e05b96f82f5b9c1b668bc
+242,RNA-based vaccine,RNA; mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7b0641b4b8b1f0d5d343dbbe977e343f
+243,Other,"BLD-2660, synthetic small molecule inhibitor of calpain (CAPN) 1, 2, and 9",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7bb9cb992710c35abdfa3e64719c932d
+244,Other,"BIO-11006, inhaled peptide",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7c2c4985c5f2c6e8ebcfa2bca7415498
+245,Non-replicating viral vector,MVA-S,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7c88fa33f61d7ff2c93dfce4ac9ef752
+246,Other,"CD24Fc, biological immunomodulator (nonpolymorphic regions of CD24 attached to the Fc region of human IgG1)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7d65cad617428ae12a60fb5dba47e250
+247,Antibodies,"otilimab, anti-granulocyte macrophase colony-stimulating factor (GM-CSF) antibody
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7e7d573cef28f27c286bb02412b49e33
+248,Other,"fadraciclib (CYC065), cyclin-dependent kinase (CDK)2/9 inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7fce2772b423d257835b16be86e4b363
+249,Device,"Seraph100MicrobindAffinity Blood Filter (Seraphy 100), approved in the EU for pathogen reduction",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,7fdd091bf3a2f5a78fd19bd1d1f198d3
+250,Protein subunit,Protein subunit; molecular clamp stabilized Spike protein with MF59 adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,80bb02494ad451606d4d69dac10763fd
+251,Device,"MultiFiltrate PRO System and multiBic/multiPlus Solutions, continuous renal replacement therapy (CRRT)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,810a63c8851e9b87b3e80c93d7fe59bf
+252,Other,Veyonda (idronoxil),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,814e7110b278156e34b252f19ab179b3
+253,Non-replicating viral vector,Intranasal lentiviral vector vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,81a71b2fbddd8c5fdb6167d135718d57
+254,Live attenuated virus,Codon deoptimized live attenuated virus,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,81c082c49933df9028033a8e47b8a258
+255,Antivirals,"Favilavir/ Favipiravir/ T-705/ Avigan, licensed in Japan to treat influenza",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,81ff4e9489cabf14239bbba0e566deab
+256,Other,"PTC299, oral small molecule inhibitor of dihydroorotate dehydrogenase (DHODH)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,824b0ed00115419847ab98e8713cc755
+257,Other,"CIGB-258, immunoregulatory peptide",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,833175cee33c418a6e04c59c69deb199
+258,Scanning compounds to repurpose,Screening drug compounds,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,83db768226352df04148782a6dfc8954
+259,DNA-based,DNA vaccine (GX-19),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,83fcd82de6975ee4252732c1d030f2a3
+260,Cell-based therapies,"CK0802, allogeneic cell therapy containing T-regulatory cells from umbilical cord blood processed to express lung homing markers on the cell surface ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,847446992153de3eac7105d9d57d31f0
+261,Other,"Tricor (fenofibrate), peroxisome proliferator-activated receptor (PPAR) alpha agonist ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,84c609bf6c28159f9a4af37b6e282417
+262,Antibodies,"TZLS-501, an anti-interleukin-6 receptor monoclonal antibody (inhalation technology in development)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,84e0551b71703ce35e183cfdc419ccc7
+263,Other,"EPAspire, oral formulation of highly purified eicosapentaenoic acid free fatty acid (EPA-FFA) in gastro-resistant capsules",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,84fc01bc4ec2251ca429846b7b16cfcf
+264,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,855e473caa14dba95d03e54dadee9a85
+265,Other,"azithromycin, antibiotic",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,85bef9081d38024fe69d81ef32d697a7
+266,Other,PP-001,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,85dab4374735fe6489ef65244e6c8f14
+267,Other,"Neumifil, multivalent carbohydrate binding molecules",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,866a6f0d64be5a4b319931a99e04647d
+268,Cell-based therapies,"AmnioBoost, concentrated allogeneic MSCs and cytokines derived from amniotic fluid",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,868d2cc5fb20358cb9c46987f79852d3
+269,Other,"ST-001 nanoFenretinide (fenretinide)
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,86daf3537aca201a3e702e71686daeb0
+270,Antibodies,"Monocloncal antibodies, CXC10 antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,87818db345e1d0417db2ae34e0462eb8
+271,Antibodies,Combo of two antibodies (AZD7442),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,88a95d5bb97cb9146fbed8ba52d91821
+272,Device,INOpulse,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8903a6c9897be4bb9440b46ac10faab9
+273,Other,"merimepodib, IMPDH inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,89c9084d0b88fdbaf83b2322ec8ff09a
+274,Protein subunit,Plant-based subunit (RBD-Fc + Adjuvant),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8a01855327aef7311a90fbf4c2cdac2e
+275,RNA-based vaccine,RNA; mRNA lipid nanoparticle (mRNA-LNP),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8a7db3de43c0165b03174b04b3fd572f
+276,Non-replicating viral vector,"Adeno-based, Gam-COVID-Vac Lyo (Sputnik V)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8ad7c6c6cc64583f720dd4f517c812d0
+277,Other,"VP01, Angiotensin II Type 2 receptor activator ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8b0b3c8e5596294aa30bafc651dab002
+278,Other,"OP-101, dendrimer-based therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8b13dd69e22b07208b32b00a27e0ab1f
+279,Other,LAU-7b (fenretinide),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8b24d81c5a06aecbaeddfa4da4dff6b2
+280,Antivirals,"Arbidol (umifenovir), licensed in Russia and China for treatment of respiratory viral infections",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8b3ea92e1f8bc7a83ea21ecddd89023a
+281,Antivirals,"Vicromax, broad spectrum antiviral",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8c3447c288af826291f04190c1677d05
+282,Antivirals,"Tamiflu (oseltamivir), neuraminidase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8c54c3ff79d6520120a944c104b1667a
+283,Device,Extracorporeal blood purification (EBP) devices,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8cf450f40c6dc790dc74a8baf6f8ebe2
+284,Protein subunit,Adjuvanted recombinant protein (RBD-Dimer),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8d04b584db4028c1c91ec508e34056bf
+285,Other,"Yeliva (opaganib, ABC294640), oral sphingosine kinase-2 (SK2) selective inhibitor
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8d90e012f2698d6f704cbfeee1199a4e
+286,Protein subunit,"Protein Subunit S, N, M & S1 protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8da652ba2e2dcbb21f2a551171dee48f
+287,Other,FSD-201 (ultramicronized palmitoylethanolamide),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8e609564beb9502822c869f934c5431a
+288,Other,"Auxora (CM4620-IE), calcium release-activated calcium (CRAC) channel inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8f55ab63b4abc1bfbbbf76cb2d7d4dc3
+289,Other,"Firazyr (icatibant), bradykinin B2 antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8f75c90f296ab76a23e52c5feb39b0a8
+290,Scanning compounds to repurpose,Reviewing existing drugs and compounds through mapping viral-human protein interactions,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,8fc180825d00a65fde806d2101cfba51
+291,Scanning compounds to repurpose,Scanning compounds to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9078c65295b90e1e5e0840a25c1ffe7c
+292,Antibodies,"JS016 antibody candidate
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,90b00ea2650900ee0b62fbb5590e19a1
+293,RNA-based vaccine,mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,90b42a7c6ad1f1120ddd32775e7922d1
+294,Non-replicating viral vector,Inactivated Flu-based SARS-CoV2 vaccine + Adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,91be4a9f3dc17519e482c17811ee7d5e
+295,Non-replicating viral vector,Non-replicating viral vector; Ad5 S (GREVAX™ platform),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,922b93210d4f964c4a6b885df9cd4924
+296,Antibodies,Octagam; intravenous Immunoglobulin (IVIG),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9290c50a15807167e15b601da58adf68
+297,Other,"GP1681, small molecule inhibitor of cytokine release",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,92a0c0ddd08757d897b3cd46635007ba
+298,Protein subunit,RBD-protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,92af4d41b3ba1aa8dcee78006f67eef9
+299,Protein subunit,"Protein subunit, S protein + adjuvant",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,92cfb52884e7a3b421ae3a21813ea921
+300,Protein subunit,Protein subunit; peptide,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,92d8bc958ffc69064bf8171e69f2139e
+301,Other,"Cerocal (ifenprodil), NP-120, an NDMA receptor glutamate receptor antagonist targeting Glu2NB",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,930cb447b5e531cb7984a8aef542f7d0
+302,Protein subunit,"Protein subunit, TaliCoVax19 ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9312aa5f7f9bbd56389e7c400f2bebc4
+303,Antibodies,Nanobodies from Llamas,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,936dd2df0ee78bb7313662086ad2336f
+304,Inactivated virus,Inactivated (inactivated + alum); CoronaVac (formerly PiCoVacc),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,93f95bd4cd1ade912d8028a044c49fb6
+305,Cell-based therapies,"SBI-101, biologic/device combo product with allogeneic mesenchymal stem cells and a phasmapheresis device",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,940cc6f54899c6abcbfd50361a821884
+306,Antibodies,"IFX-1, anti-C5a antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9443bf03e3b59d22e6d8179ceabe2358
+307,Protein subunit,"Protein subunit; recombinant protein vaccine, utilizing baculovirus expression vector system technology",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9482a21985bd0f423c691437ffacd00a
+308,Non-replicating viral vector,Adeno5-based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,954e8adaee416594a23101e8dc497d78
+309,Other,"IMU-838, selective oral dihydroorotate dehydrogenase (DHODH) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,95adfb63b14e7d01cc40cbbe47bb5117
+310,Antibodies,Antibody 47D11,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,96299c6b964ecc2229bd61be787b87d9
+311,Cell-based therapies,Chimeric antigen receptors (CAR)/T cell receptors (TCR)-T cell therapy,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,96c5bcc31de9f909cfe2dacfccf9f1fa
+312,Other,UTTR1147A (IL-22-Fc),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,96d828162450027e7738511f70e76a0b
+313,RNA-based vaccine,"RNA; ZIP-1642, vaccine consists of a combination of mRNA molecules, encoding multiple SARS-CoV-2 antigens",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,96f9ac7047fc78fcd53f4fac971f32d1
+314,Antibodies,"Single domain antibodies (sdAbs), engineered monoclonal antibody derived from camelids",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,98143721a3052a95566050e511ac8bb8
+315,Other,"Adaptive COVID-19 Treatment Trial 3 (ACTT-3), Remdesivir + interferon beta-1a",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,98a3e81386a77dd276b9d369bf65b55a
+316,Replicating viral vector,Replicating viral vector; measles vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,99140adcf7b2442161662dceea2e37dd
+317,DNA-based,"DNA plasmid, vaccine + adjuvant",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,99385368adc2278dacc51ecb7b868cbb
+318,Non-replicating viral vector,"Ad26.COV2-S, Non replicating viral vector; Ad26 (alone or with MVA boost)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,996f6a1bc2e9626f35778f2fa0c1cf33
+319,Other,"Cozaar (losartan), angiotensin II receptor blocker (ARB)
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,998d420fd594af15ab74c4a79c00ba31
+320,Other,"ceftriaxone, broad-spectrum cephalosporin antibiotic",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9a2dc6d3af4c47f91bb9168ffe37ba01
+321,Antibodies,"EB05, non-steroidal anti-inflammatory molecule (sPLA2 inhibitor) ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9a488cb1c4cc32c33a931da50c2b3f20
+322,Antibodies,"Prolastin, alpha-1 anti-trypsin antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9a9089918fb02ab5d0a244e53544d9f2
+323,Scanning compounds to repurpose,Screening for antiviral drug candidates,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9aa3ad94ca9331825de79e88f0e73cf0
+324,Virus-like particle,"VLP; virus-like particle, based on RBD displayed on virus-like particle",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9aa48c9625378598287bb9697c17fe82
+325,Virus-like particle,VLPs peptides/whole virus,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9ac447a98fcca00bcf20d3861b79c952
+326,Antibodies,"Antibodies targeting the S protein from convalescent serum, humanized mice, and phage display",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9ad23c521157fc1f25ad3ee5eefc65ef
+327,Other,Micardis (telmisartan),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9aef94fc5ead87775b9e63e3bd826c8c
+328,Other,"Pepcid (famotidine), histamine-2 (H2) receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9b1fd1c8af0988fe9646a8cd411b9685
+329,Protein subunit,"Protein subunit, VLP-recombinant protein + adjuvant",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9c2d9aef744c241c489e01ea3eacd478
+330,Other,"UNI9011 (Union Therapeutics), FW-1022 (First Wave Bio), DWRX2003 (Daewoong) niclosamide",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9c4968d7920034da288bd88ed7159cbb
+331,Antibodies,Neutralizing antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9c63ba303cf8cac0a0bbe90a278148f2
+332,Scanning compounds to repurpose,Identifying drugs to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9c6ab7533b28e139c97b598879008221
+333,Scanning compounds to repurpose,Identify anti-coronavirus compounds that target cellular host genes,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9ccaa1e7ce8551dac93f0cefbe1d1bfc
+334,Antibodies,"Novel IgM and IgA antibodies
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9e37d244fb79fb482c0ec2d62cdc6b38
+335,Non-replicating viral vector,Non-replicating viral vector; AZD 1222 (formerly ChAdOx1),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9e42b9d77f11d295c98ef21940e3bfaa
+336,DNA-based,DNA with electroporation,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9eb49a6b8e292e986b25253ffc0c6109
+337,Antibodies,Antibodies binding to a piece of the spike protein found on multiple coronaviruses including SARS-CoV-2,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9f684ead3f3109610c1e1f7158c5d240
+338,Cell-based therapies,"Furestem RA, allogenic umbilical cord blood-derived stem cell therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,9fe38fe4c25ae1c963c4d94301a1d8af
+339,Other,"camostat mesylate, transmembrane protease serine 2 (TMPRSS2) inhibitor, approved in Japan to treat multiple conditions including pancreatitis",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a0a04b828e29d7d7efdb80c85d21bd26
+340,Scanning compounds to repurpose,Identify FDA-approved drugs to repurpose to prevent or treat COVID-19,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a126271ce4e90940cf0e38225a0cd9d1
+341,Other,"Xeljanz (tofacitinib), Janus kinase (JAK) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a18bf8e21b42a57eedc038ff4840587c
+342,Other,Jakafi/jakavi (ruxolitinib),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a1a0b969999ebba929c830af6e712832
+343,Cell-based therapies,"BX-U001, allogeneic umbilical cord derived mesenchymal stem cell (hUC-MSC)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a1e28993c11c9b36233b45c6360b330f
+344,Device,Hemolung Respiratory Assist System,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a2f97e52afa5fb89bed55a7cbd228e01
+345,DNA-based,DNA; Covigenix,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a36bf38aa7f1804eb5021440e473f3bf
+346,DNA-based,DNA with electroporation,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a3916f436ce36063f8fb3aa12d8f9d75
+347,Antivirals,antiviral Fc conjugates,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a45ee49ad8e5046999bf3487ba11d56f
+348,Other,"bemcentinib, selective AXL kinase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a46df1520131ab5971e7e48a5095adb5
+349,Antibodies,Neutralizing antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a48487283f20fa2f73ab06c769c4bbba
+350,RNA-based vaccine,"Self amplifying RNA, self-assembling delivery system",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a51a9eea659d7be7f6963659ca8561fc
+351,Antibodies,Purified ovine immunoglobulin from immunized sheep,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a536b9d0ec1efe1579b38e26ae71bb56
+352,Unknown,Chimeric vaccine (coronavirus and influenza),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a570bf40f3c8d5090893915e4fd74530
+353,Antibodies,"LY3127804, anti-Angiopoietin 2 (Ang2) antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a5fbdf4e5446b9a805d28c5b663e0b6c
+354,Antibodies,Antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a62a1a31b9ad26a72fa3e902e0433835
+355,Cell-based therapies,"CAP-1002, allogenic cardiosphere-derived cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a63c50ce4fbd2e8e658df85a42b075c0
+356,Other,"desidustat, a hypoxia inducible factor prolyl hydroxylase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a73fb0ff6b31bd4812550e512047be03
+357,RNA-based vaccine,mRNA (ARCoV),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a85e47eb6ac27ef7e75c0227dcbdb18a
+358,Live attenuated virus,MV-014-210,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,a9ea277a3f75831f8c022ccbd201980a
+359,Other,ABX464,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ab5386f70fabbb7a3d655ffb9748ad0b
+360,Antibodies,"itolizumab, anti-CD6 IgG1 monoclonal antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ab9d81d6b900bfda638ace8498813209
+361,Protein subunit,Structurally modified spherical particles of the tobacco mosaic virus (TMV),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ac45eeb400a1844ddf604cd9be3e063c
+362,Other,"ST266, cell-free biologic made from anti-inflammatory proteins secreted by placental cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ade88fb136955339eaa634082061d91e
+363,Cell-based therapies,Natural killer cell-based therapy,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ae0d2f021978780c215cdbb08f96167e
+364,Other,"PB1046, long-acting, sustained release human vasoactive intestinal peptide (VIP) analogue",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ae663d0a7a2c59e526f13e5889711ec0
+365,RNA-based vaccine,mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,af85c829ffb24e7bb252d0a711584b59
+366,Other,Ruconest (recombinant human C1 esterase inhibitor),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b01764a60d63b1133a91b547c0300464
+367,Antivirals,"Ganovo (danoprevir), hepatitis C virus NS3 protease inhibitor; ritonavir; interferon, approved in China to treat Hepatitis C",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b0453bc1a9a5c7cb1dce7002d4d8acd5
+368,Other,"Brilacidin, a defensin mimetic",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b06a8795bd84cf23339e48f05b827966
+369,Antibodies,Novel biosynthetic convalescent plasma (BCP),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b12cb7a088c3468695fd5c71db83c1f5
+370,RNA-based treatments,"OT-101, a TGF-Beta antisense drug candidate",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b18e82d306624a977156a6d9f899403f
+371,Scanning compounds to repurpose,Artificial intellegence-based screening to identify repurposed drug combinations,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b247607e7cafa355a7617e916eb1f717
+372,Replicating viral vector,"Replicating viral vector, live viral vectored vaccine based on attenuated influenza virus backbone (intranasal)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b369f331855c3f456b01391f98f86838
+373,Antibodies,"Sylvant (siltuximab), interleukin-6 targeted monoclonal",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b3c4b814363dffbf716a68dae20ace0c
+374,Cell-based therapies,Allogeneic T-cell therapies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b465bf18ebeea65fd5693679a2564c3c
+375,Protein subunit,"Protein subunit; S protein, baculovirus production",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b4ffd3e1cade7ac3dfa7caf5a0856bc5
+376,Virus-like particle,"Virus-like particles, lentivirus, and baculovirus vehicles",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b53f59fb9e704eec21a8b5a81663b6d2
+377,Protein subunit,Protein subunit; recombinant spike protein with Advax adjuvant (COVAX-19),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b5b6a478e798dbae11000c4e8ce5de59
+378,Unknown,LV-SMENP-DC Dendritic cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins; administered with antigen-specific cytotoxic T lymphocytes,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b65c1ef0751b20173b016a8b8e200a42
+379,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b66a3bedcbf1a5d937229be460930320
+380,Unknown,AVI-205,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b6efff9f54e71d047c8481f4b336579b
+381,Device,"CytoSorb (blood purification device, extracorporeal cytokine adsorber))",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b7429575c289158410073e8cc1c3eeda
+382,Other,"nitazoxanide, antiprotozoal",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b7441c9cfaca08f71b1e26a52ee8f5f4
+383,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b76c93cd226fb933496fc5c5cb776b4f
+384,RNA-based vaccine,LNP-mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b77e7d62d4a8e4809fdbe659c6ffa880
+385,Antibodies,Non-viral gene therapy to produce monoclonal antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b7bd3ce7617374a420d46659587de5b4
+386,Other,"NT-I7 (efineptakin alfa), long-acting human IL-7",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,b8d594edc2f4d2e34b6a07ff10307446
+387,Antibodies,COVI-SHIELD/COVI-TRACE/COVI-GUARD antibody cocktail that binds to three different epitopes,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ba118bcc84f57ce2602047ab68444208
+388,Non-replicating viral vector,Oral Ad5 S,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,baa7065e10ba149be4786c48afddfc50
+389,Protein subunit,"Protein subunit; DPX-COVID-19, protein subunit, peptide antigens formulated in LNP",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bb44359bdbf45a6766cdd749f6ad1ffd
+390,Other,"Lysteda/Cyklokapron/LB1148 (tranexamic acid), an antifibrinolytic",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bc1f1692ff37c966e09d7f8badbb54f3
+391,Antibodies,Convalescent plasma (blood plasma from recovered patients),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bc2b46d3f040bc2d4417d7198801763a
+392,Antivirals,"emetine hydrochloride
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bd491b5497f6f9b8e37ab0e4e7137fc5
+393,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bd7e53c6251c4a7f245ee1da1ef68740
+394,Non-replicating viral vector,"Non-replicating viral vector; Oral Vaccine
+ platform",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bda5a0b4a555ad5b0285c77faca32b24
+395,Other,"sPIF (synthetic pre implantation factor)
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,be1890f76ad2209ab8d2f1b3356eaf8a
+396,Other,"losmapimod, oral selective p38 mitogen activated protein kinase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,be1ecaee28fecf64969065d29989891d
+397,Protein subunit,"RBD (baculovirus production
+expressed in Sf9 cells)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,be47ca264224f7f5db4e2b203cb00ab9
+398,Inactivated virus,"Inactivated (Inactivated + CpG 1018), VLA2001",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bee2e19c9743ac46a19d82b0b3a6c7c7
+399,Antibodies,"IC14, recombinant chimeric anti-CD14 monoclonal antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,beeb40cc8eeafe7424bd611619aa7417
+400,Antivirals,"DAS181, recombinant sialidase (nebulized)
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bf70870a44fbcabfe3b61dd492f11778
+401,Protein subunit,Protein subunit; Ii-Key peptide,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,bf76c3b4e502d3c2cac0d77c3e4e2366
+402,Protein subunit,Subunit vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c011eb516f9b41da6c50b21612109171
+403,Dormant / Discontinued,"Xofluza (baloxavir marboxil), polymerase acidic endonuclease inhibitor
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c0a6be2d950318879146e9d9046232fd
+404,Other,"pH barrier, transepithelial nebulized alkaline treatment",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c0d0ebfe3961919283f51a6242546fef
+405,Other,Traumakine (interferon beta 1-a),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c15884c380829cc317df5bb535f95924
+406,Dormant / Discontinued,Washed microbiota transplantation,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c1773ccbb5d1eb74736c2cbf9f6217a9
+407,Other,colchicine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c1ce2c89b58bea59ec193f1d475f33ab
+408,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c1ebdeae007f2a3435713d95ceb01292
+409,RNA-based vaccine,RNA; mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c2915876507ade555a8d107adf2e62c9
+410,Other,"Luvox (fluvoxamine), a selective serotonin reuptake inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c346a5449d22d3d24175d6d1032d8dad
+411,Cell-based therapies,"PLX cell product, placenta-based cell therapy",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c396399929e33fba33a68163ac151de4
+412,Other,"heparin; low molecular weight heparin (enoxaparin), anticoagulant
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c3d351df49a28ca1a0239237d57787a8
+413,RNA-based vaccine,RNA; liposome-encapsulated mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c3d7666f00f2568ac8fbe1d26ee23ee0
+414,Protein subunit,Protein subunit; S protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c3fc6c79b69dc33bf22dae43878042ed
+415,Antibodies,"BRII-196 and BRII-198, Antibodies from recovered COVID-19 patients",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c48a983bc7a334672a2695cd2d3bd6dd
+416,Unknown,Unknown,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c5461ab24c9cc64d7d703225856dc1f2
+417,Antivirals,"BTL-tml
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c5727f8c5578c8f1b6401c5de0e6776b
+418,Other,"Otezla (apremilast), inhibitor of phosphodiesterase 4 (PDE4)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c5b6f553b913e70931cb8f20e16ea4a5
+419,Non-replicating viral vector,"Non-replicating viral vector, MVA expressing structural proteins",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c65ebcb34e1d27cace2a1254f52f0482
+420,Protein subunit,Protein subunit; spike based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c70cc52ec68fe03ffbbcd3ac7a830ef8
+421,Replicating viral vector,Replicating viral vector; measles vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c7d12fbb6d4abccf5d3e1a1751655347
+422,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c8d40e86f90c33af099d3fde3639eed5
+423,Other,almitrine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c8f4b7b2ef64ba5634cd7903475cc45c
+424,Antibodies,"leronlimab (PRO 140), a CCR5 antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c939acac9146ff99969c572f0e048ce1
+425,Antivirals,"Prezcobix (darunavir, HIV-1 protease inhibitor/cobicistat, CYP3A inhibitor)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c940f53e1b543170ba77ce0c624d2fd4
+426,Antibodies,Mix of neutralizing antibodies isolated from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,c995dcd831931262a542e6d07cba1c02
+427,Other,"roscovitine seliciclib, cyclin-dependent kinase (CDK)2/9 inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cae6a8e4814b6cd14b674c4b1c07340a
+428,Antibodies,Antibody for immunocompromised patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cafef43a6c9b6313e4d98d06ca11355d
+429,Antibodies,"CERC-002, anti-LIGHT monoclonal antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cb06ac1e3e0075ac15e6755dbbf5714b
+430,Antivirals,ISR-50,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cb1efd14a6b7179ec4e2183cfe5bb4d5
+431,Protein subunit,"Protein subunit, recombinant S1-Fc fusion protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cb5a9239a3002fdb869abae070d5d321
+432,Protein subunit,Targeted (Langerhans cell specific) protein subunit; spike based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cbedc7b50b65caa84205e09cee7d8dd1
+433,Antibodies,"Actemra (tocilizumab), interleukin-6 receptor antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cc96f85271d710c239f4c51ef349a5b0
+434,Virus-like particle,VLP (CoVLP)+ Adjuvant (CpG 1018),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ccc249f4565bb8821f36fc614449df55
+435,Cell-based therapies,Bone marrow-derived allogenic mesenchymal stem cells (BM-Allo-MSC),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ccd5f9208c68d4f3cbb6a8b68a9a3704
+436,Other,"AQCH, plant-derived (phytopharmaeutical) drug",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cce2225d00ab5f847248883324b98bae
+437,Protein subunit,"Protein subunit, recombinant protein, nanoparticles (based on S-protein and other epitopes)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cd3ba78e681b5e891d3b6f85cdb198ae
+438,DNA-based,"bacTRL-Spike
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cdf890ef934098895a330c5f54eba923
+439,Other,"Aldactone (spironolactone), aldosterone antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ce18b7a96c005bf8c905c4d6798511c6
+440,Replicating viral vector,M2-deficient single replication (M2SR) influenza vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ceecf567e1e623a8b5410f705e6b2021
+441,Other,"Razoprotafib,
+  Tie 2 activating compound (AKB-9778)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,cf4432417c7b2192be53340c9610d82c
+442,Cell-based therapies,"Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d051d67d3e81ae8c27a4d8662957ba39
+443,Other,"Pulmozyme (nebulised dornase alfa), a recombinant DNase enzyme",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d052fd7d9f1f149fce08705030ea35f8
+444,Unknown,"TerraCoV2
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d074d857cde98a29a5f6402071599e6e
+445,Inactivated virus,Inactivated (inactivated + CpG 1018),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d0b2b6e60588bf89d9441734f1ed0a1a
+446,DNA-based,"DNA plasmid, needle-free delivery",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d10bb89493b994e9f4068201e7089e0d
+447,Replicating bacterial vector,Recombinant LVS ΔcapB – vectored vaccine expressing multiple SARS-CoV-2 antigens,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d163ef8ac1bb87cbc069201b62b3c9fd
+448,RNA-based vaccine,RNA; LNP-nCoVsaRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d1aa1d48b80af0548fab38fe25abdb24
+449,Other,Microbiome therapeutic,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d2012f0b78a7d6e81fa384b2112b6014
+450,RNA-based vaccine,RNA; mRNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d2423e5825e73b9912bff21684b31dcb
+451,Virus-like particle,VLP (CoVLP)+ Adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d251b84ffa93f7a0335a23b0040b5404
+452,Other,"MRx-4DP0004, strain of Bifidobacterium breve isolated from the gut microbiome of a healthy human",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d29257e4664ec1959ef6cd3b51b19064
+453,Protein subunit,OMV-based vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d2a485d086f7f8f2cf1882ddf8f26002
+454,Cell-based therapies,"Allocetra, early apopototic cells",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d3030b98b532a3f2f5ef312e1d1b387f
+455,Live attenuated virus,Codon deoptimized live attenuated virus,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d3fdd042fc4d6038936ab166721a158a
+456,Replicating viral vector,VSV-S,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d4732b441dafc9bf36ed0934c9553007
+457,Dormant / Discontinued,"Novaferon, Nova, interferon, licensed in China for Hepatitis B",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d4b81c6465813fa7e261adf26f9df539
+458,Other,"Gleevac (imatinib), kinase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d53178552595aab9d0071836d7a5e0f7
+459,Cell-based therapies,Mesenchymal stem cells,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d55efe4b79b82486beee2fa29bf79f3b
+460,Other,"raloxifene (Evista), an estrogen agonist/antagonist",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d587031cc7f973f008471b6236251eb6
+461,Other,ivermectin,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d65a3487fa611b3ebaf95f6da7d95fdd
+462,Antivirals,"AT-527, oral purine nucleotide prodrug",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d6d6cd32974a975be321ed7af0bcada7
+463,Other,"LAM-002A (apilimod dimesylate), PIKfyve kinase inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d78c312675298bb4752d181e34350add
+464,Other,ARMS-1,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,d99b6a58547212c2451d8eb94684c418
+465,RNA-based vaccine,"mRNA
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,dafa01f6c15f2efb28eeb717775a7f62
+466,Other,BXT-25; glycoprotein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,dc88549d3dcf6feb570318ca160068a8
+467,Antibodies,"MEDI3506, monoclonal antibody targeting interleukin 33",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,dd1d6437f60260e2bb5731b903736159
+468,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,df5302851252853364a883f6d642392d
+469,Antibodies,"Gamifant (emapalumab), anti-interferon gamma antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,dfd09aa4cbdcaa00a7df6d1208d8d369
+470,DNA-based,DNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,dfe5dc097100445630c0185a296dfa6d
+471,Cell-based therapies,Mesenchymal stem cells,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e02879ab3a8dfaf9a90a9ae6aeed46e6
+472,Scanning compounds to repurpose,Scanning antiviral compounds previously in development,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e0d4a30ae1cc5bcaf665bf64e5b37757
+473,Antibodies,LY-CoV555 antibody from recovered patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e11c0f5f4005dd04a579beab3076fac9
+474,Protein subunit,"Protein subunit, native like trimeric subunit spike protein",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e1dfcb805f87f69e79685854f6f317b8
+475,Other,"Diovan (valsartan), angiotensin II receptor blocker (ARB)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e217a963262cfdfc3782b7c92ccb5314
+476,Device,Impella RP heart pump,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e2839e1232e391b95d4f70b29f432e13
+477,Protein subunit,PDS-0203; Versamune T-cell activating technology,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e2b7c85f0b8c440d0f71a9341141c8bd
+478,Cell-based therapies,Small mobile stem (SMS) cells,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e2c2c63e1af6790e9521023e80816fb7
+479,Antibodies,Antibodies from recovered COVID-19 patients,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e2ea44c3a986e81eea5cd60e2c851d2b
+480,RNA-based treatments,"Antisense oligonucleotides, peptide conjugated",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e3281d3d5cd27c43a99b31329da01bcc
+481,Other,"EDP1815, oral single strain of microbe ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e36f5fe39e03a148c77656336090394a
+482,Antivirals,Sofusbuvir,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e392adf10a80786ea469c020bbd33405
+483,Protein subunit,"Protein subunit, capsid-like particle (CLP)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e3cc5e9499847fdd43bd7f0214df4695
+484,Cell-based therapies,"IMS001, human embryonic stem cell-derived mesenchymal stem cells (hES-MSC)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e43579f7d2b3a8742c117be3d81de227
+485,Replicating viral vector,"Measles virus (S, N targets)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e49009c9237e30b828139621b210da11
+486,Protein subunit,Protein subunit; S protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e4df10d62d3a4f6d8c1b763f34e7165b
+487,Inactivated virus,"Inactivated, QAZCOVID-IN®",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e590cb3d47b272dbd2bb48647f747811
+488,Antibodies,"Opdivo (nivolumab), PD-1 blocking antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e5b2197ce3e24ea48f69d9d726503e82
+489,Antibodies,"IgY-110, anti-CoV-2 antibody (nasal spary application)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e75f24c8788606706b7620a421ed8fe2
+490,Unknown,exoVACC exome platform,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e78febf1262857a7232f36f9231d46fa
+491,DNA-based,DNA,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e7ffd6d061dece0fe33879fdf9686fe3
+492,Protein subunit,RBD + Adjuvant (FINLAY-FR-1),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e80844f9d4f110c1bcf81795594f06a2
+493,Antibodies,Antibodies,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e81b1da5e33ad484e48086e2a64983c0
+494,Protein subunit,Protein subunit (gp-96 backbone),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e8759286764ea8645de18f2ac23b9461
+495,Protein subunit,"Protein subunit, peptide",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,e8f3905ec721f66264f2cb614117e0f8
+496,Antibodies,"CT-P59; Antibodies from recovered COVID-19 patients
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ec647a78588d53214cdd5fe382a74176
+497,Protein subunit,"Protein subunit; Subunit protein, plant produced",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,edaaf353388ef51880cd61bac08d61c8
+498,Other,"ADX-629, orally available reactive aldehyde species (RASP) inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ee5d4fcd4fa981df178eadcafdccc48b
+499,Unknown,nanoparticles (vaults) as second-line defense of infection,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ee8c7a8863733e15722cae887cb213e6
+500,Other,"interferon/peginterferon alpha-2b, PegIntron, Sylatron, IntronA, PegiHep
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ef25b8d3e8c7868623f63158deb5a2eb
+501,Non-replicating viral vector,Influenza A H1N1 vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ef323fe24070c45ab8aa4f9bba067083
+502,Other,senicapoc,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ef84d3f2d3cb77fb164cb9bddf5c5e94
+503,Replicating viral vector,Replicating viral vector; YF17D Vector,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f03aa3d82bdc66e4e22973ce3af9269b
+504,Antivirals,"Kaletra/Aluvia (lopinavir/ritonavir), HIV-1 protease inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f19ff5564c8a698baf7e55a599bfdc80
+505,Antibodies,"Ultomiris (ravulizumab-cwvz), complement inhibitor",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f205cbd437ab8b58708bd14d9d8c4a94
+506,Other,Peginterferon lambda,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f245790d005cbb642237938882d7589c
+507,Protein subunit,Protein subunit; oral E. coli-based protein expression system of S and N proteins,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f248ab4a9c447b8ec407648ef6066d7c
+508,Protein subunit,Subunit,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f2b1c8ef3451a20b7cbb8fd58138b9e4
+509,RNA-based vaccine,RNA; several mRNA candidates,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f2b3881942dae1a878e054dee000064c
+510,Scanning compounds to repurpose,Scanning compounds to repurpose,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f2f6a8983477441fb524f1da30ef0501
+511,Other,Recombinant human interferon alpha-1b,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f2f9b3782e146d379d580f0eddf33811
+512,Protein subunit,"Protein subunit, recombinant S protein in IC-BEVS  ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f2fd7f54c5d9410cb1dfe182c2b9685e
+513,Protein subunit,RBD-based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f3445115b7625267cb2a6bae15284a32
+514,Virus-like particle,S protein integrated in HIV VLPs,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f47b62da26413c771c5a5cd5bb39946d
+515,Cell-based therapies,"Astrostem-V, Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f4b569c953d6034ddec619867cbc983a
+516,Antibodies,"Ilaris (canakinumab), interleukin-1beta blocker",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f57725824ed56f5cd556cf7d560da63b
+517,Other,"Aviptadil, synthetic form of Vasoactive Intestinal Polypeptide (RLF-100)",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f5bd55e8a93a759805bd77c179ee5601
+518,Antibodies,Antibody,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f5e4bc7392e41b7722f02bea36feef0f
+519,Other,"dutasteride, anti-androgen",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f72260e06a0f294ff207b77d7d4829ba
+520,Antivirals,Antiviral compounds,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f78ff8e1026ff89a674b9b965f47fe10
+521,Protein subunit,CiVax™ COVID-19 vaccine candidate; spike protein + novel adjuvant,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f801743a9a40126e14ecebe387f13fb2
+522,Cell-based therapies,"CLBS119, autologous peripheral blood-derived CD34+ cell therapy ",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f81c7486af839cf3eac36342944d63ae
+523,Antibodies,"mavrilimumab, anti-granulocyte-macrophase colony-stimunlating factor receptor-alpha monoclonal antibody",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f8767031b9863d8cc67fa56b2d4c4c9c
+524,Protein subunit,Protein subunit; S1 or RBD protein,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,f97e89a197a1cfaa20099cd032875ef2
+525,Virus-like particle,VLP; plant-derived VLP adjuvanted with GSK or Dynavax adjs.,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fa98a550f856ecda8b8ec8f279cc11e0
+526,RNA-based vaccine,RNA; LNP-encapsulated mRNA (mRNA 1273),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,faf6e40e514f27025b2ecb9c851411c2
+527,DNA-based,msDNA vaccine,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fc1395aa699d2a7ed324a21a0fdd7dc7
+528,Scanning compounds to repurpose,Screening of drug compounds,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fd8fadc29447a442996dde33359b1919
+529,Unknown,ISR-50,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fde59124ae19d98ab9e46e23a568d19f
+530,Replicating viral vector,Avian paramyxovirus vector (APMV),Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fdfdde1fa46ce62751f887f69ac4d199
+531,Protein subunit,RBD-based,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,fe1df1b8b27874590f134fff07a96c3d
+532,Scanning compounds to repurpose,Scanning library of antiviral compounds,Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ff03802457f89be054d96d03222eb329
+533,RNA-based vaccine,"LNP-mRNA
+",Milken,https://docs.google.com/document/d/1Y4nCJJ4njzD1wiHbufCY6gqfRmj49Qn_qNgOJD62Wik/edit,ff12f0cca97c655b5f0d45bd48d676ec
+534,,"Polyclonal hyperimmune globulin (H-IG), unbranded",Milken,,milkentreatment_000
+535,,"Antibodies from mice, REGN3048-3051, against the spike protein",Milken,,milkentreatment_001
+536,,CT-P59; Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_002
+537,,Super-antibody or antibody cocktail to target potential mutations of SARS-CoV-2,Milken,,milkentreatment_003
+538,,COVI-SHIELD antibody cocktail that binds to three different epitopes,Milken,,milkentreatment_004
+539,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_005
+540,,"VIR-7831 and VIR-7832, antibodies from recovered SARS patients",Milken,,milkentreatment_006
+541,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_007
+542,,"COVID-19 Immunoglobulin, plasma derived",Milken,,milkentreatment_008
+543,,"Avastin (bevacizumab), vascular endothelial growth factor inhibitor",Milken,,milkentreatment_009
+544,,PD-1 blocking antibody; Thymosin,Milken,,milkentreatment_010
+545,,"Opdivo (nivolumab), PD-1 blocking antibody",Milken,,milkentreatment_011
+546,,"leronlimab (PRO 140), a CCR5 antagonist",Milken,,milkentreatment_012
+547,,"AiRuiKa (camrelizumab), anti-programmed cell death protein (PD-1) antibody",Milken,,milkentreatment_013
+548,,"Kevzara (sarilumab), interleukin-6 receptor antagonist",Milken,,milkentreatment_014
+549,,"Actemra (tocilizumab), interleukin-6 receptor antagonist",Milken,,milkentreatment_015
+550,,"Gimsilumab, anti-granulocyte-macrophage colony stimulating factor monoclonal",Milken,,milkentreatment_016
+551,,"TJM2 (TJ003234), anti-granulocyte-macrophage colony stimulating factor antibody",Milken,,milkentreatment_017
+552,,"lenzilumab, anti-granulocyte-macrophage colony stimulating factor antibody",Milken,,milkentreatment_018
+553,,"Sylvant (siltuximab), interleukin-6 targeted monoclonal",Milken,,milkentreatment_019
+554,,"Soliris (eculizumab), complement inhibitor",Milken,,milkentreatment_020
+555,,"Ilaris (canakinumab), interleukin-1beta blocker",Milken,,milkentreatment_021
+556,,"Gamifant (emapalumab), anti-interferon gamma antibody",Milken,,milkentreatment_022
+557,,"meplazumab, anti-CD147 antibody",Milken,,milkentreatment_023
+558,,"LY3127804, anti-Angiopoietin 2 (Ang2) antibody",Milken,,milkentreatment_024
+559,,"Ultomiris (ravulizumab-cwvz), complement inhibitor",Milken,,milkentreatment_025
+560,,"IFX-1, anti-C5a antibody",Milken,,milkentreatment_026
+561,,"otilimab, anti-granulocyte macrophase colony-stimulating factor (GM-CSF) antibody",Milken,,milkentreatment_027
+562,,Monoclonal antibody cocktail,Milken,,milkentreatment_028
+563,,Antibody,Milken,,milkentreatment_029
+564,,"Antibodies targeting the S protein from convalescent serum, humanized mice, and phage display",Milken,,milkentreatment_030
+565,,Antibody,Milken,,milkentreatment_031
+566,,Antibodies,Milken,,milkentreatment_032
+567,,Antibody,Milken,,milkentreatment_033
+568,,Antibodies,Milken,,milkentreatment_034
+569,,Antibodies,Milken,,milkentreatment_035
+570,,Antibodies,Milken,,milkentreatment_036
+571,,Antibodies (OmniChicken platform),Milken,,milkentreatment_037
+572,,Antibodies (OmniRat platform),Milken,,milkentreatment_038
+573,,"Monocloncal antibodies, TLR4 antagonist",Milken,,milkentreatment_039
+574,,"Monocloncal antibodies, CXC10 antagonist",Milken,,milkentreatment_040
+575,,Polyclonal hyperimmune globulin (H-IG),Milken,,milkentreatment_041
+576,,Horse plasma product (COVID-EIG),Milken,,milkentreatment_042
+577,,Convalescent plasma (blood plasma from recovered patients),Milken,,milkentreatment_043
+578,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_044
+579,,Polyclonal hyperimmune globulin (H-IG),Milken,,milkentreatment_045
+580,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_046
+581,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_047
+582,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_048
+583,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_049
+584,,Antibodies from recovered COVID-19 patients,Milken,,milkentreatment_050
+585,,Novel IgM and IgA antibodies,Milken,,milkentreatment_051
+586,,"SAB-185, Polyclonal hyperimmune globulin (H-IG)",Milken,,milkentreatment_052
+587,,Non-viral gene therapy to produce monoclonal antibodies,Milken,,milkentreatment_053
+588,,"rCIG (recombinant anti-coronavirus 19 hyperimmune gammaglobulin), polyclonal antibodies",Milken,,milkentreatment_054
+589,,"IC14, recombinant chimeric anti-CD14 monoclonal antibody",Milken,,milkentreatment_055
+590,,"MEDI3506, monoclonal antibody targeting interleukin 33",Milken,,milkentreatment_056
+591,,Octagam; intravenous Immunoglobulin (IVIG),Milken,,milkentreatment_057
+592,,Purified ovine immunoglobulin from immunized sheep,Milken,,milkentreatment_058
+593,,Antibodies,Milken,,milkentreatment_059
+594,,JS016 antibody candidate,Milken,,milkentreatment_060
+595,,Linked nanobody antibody,Milken,,milkentreatment_061
+596,,"Single domain antibodies (sdAbs), engineered monoclonal antibody derived from camelids",Milken,,milkentreatment_062
+597,,"Favilavir/Favipiravir/T-705/Avigan, licensed in Japan to treat influenza",Milken,,milkentreatment_063
+598,,"Kaletra/Aluvia (lopinavir/ritonavir), HIV-1 protease inhibitor",Milken,,milkentreatment_064
+599,,"remdesivir, nucleotide analog",Milken,,milkentreatment_065
+600,,"Prezcobix (darunavir, HIV-1 protease inhibitor/cobicistat, CYP3A inhibitor)",Milken,,milkentreatment_066
+601,,galidesivir,Milken,,milkentreatment_067
+602,,"Ganovo (danoprevir), hepatitis C virus NS3 protease inhibitor; ritonavir; interferon, approved in China to treat Hepatitis C",Milken,,milkentreatment_068
+603,,"ASC09, HIV protease inhibitor",Milken,,milkentreatment_069
+604,,"Truvada (emtricitabine and tenofovir, both HIV-1 nucleoside analog reverse transcriptase inhibitors)",Milken,,milkentreatment_070
+605,,"Arbidol (umifenovir), licensed in Russia and China for treatment of respiratory viral infections",Milken,,milkentreatment_071
+606,,"Vicromax, broad spectrum antiviral",Milken,,milkentreatment_072
+607,,ISR-50,Milken,,milkentreatment_073
+608,,"Tamiflu (oseltamivir), neuraminidase inhibitor",Milken,,milkentreatment_074
+609,,antiviral Fc conjugates,Milken,,milkentreatment_075
+610,,Antiviral compounds,Milken,,milkentreatment_076
+611,,"EIDD-2801, oral ribonucleoside analog",Milken,,milkentreatment_077
+612,,Virazole (ribavirin for inhalation solution),Milken,,milkentreatment_078
+613,,Antiviral drug combinations,Milken,,milkentreatment_079
+614,,Levovir (clevudine),Milken,,milkentreatment_080
+615,,AB001,Milken,,milkentreatment_081
+616,,BTL-tml,Milken,,milkentreatment_082
+617,,"DAS181, recombinant sialidase (nebulized)",Milken,,milkentreatment_083
+618,,emetine hydrochloride,Milken,,milkentreatment_084
+619,,"AT-527, oral purine nucleotide prodrug",Milken,,milkentreatment_085
+620,,"PLX cell product, placenta-based cell therapy",Milken,,milkentreatment_086
+621,,Mesenchymal stem cells,Milken,,milkentreatment_087
+622,,Autologous Adipose-Tissue Derived Mesenchymal Stem Cells (ADMSCs),Milken,,milkentreatment_088
+623,,"Ryoncil (remestemcel-L), allogenic mesenchymal stem cells",Milken,,milkentreatment_089
+624,,"MultiStem, bone marrow stem cells",Milken,,milkentreatment_090
+625,,Allogeneic T-cell therapies,Milken,,milkentreatment_091
+626,,Natural killer cell-based therapy,Milken,,milkentreatment_092
+627,,"CYNK-001, allogeneic, natural killer cell therapy",Milken,,milkentreatment_093
+628,,"CAP-1002, allogenic cardiosphere-derived cells",Milken,,milkentreatment_094
+629,,"haNK, natural killer cells",Milken,,milkentreatment_095
+630,,Bone marrow-derived allogenic mesenchymal stem cells (BM-Allo-MSC),Milken,,milkentreatment_096
+631,,"Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Milken,,milkentreatment_097
+632,,"Astrostem-V, Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Milken,,milkentreatment_098
+633,,"AmnioBoost, concentrated allogeneic MSCs and cytokines derived from amniotic fluid",Milken,,milkentreatment_099
+634,,Chimeric antigen receptors (CAR)/T cell receptors (TCR)-T cell therapy,Milken,,milkentreatment_100
+635,,RNAi - testing 150 RNAis,Milken,,milkentreatment_101
+636,,VIR-2703 (ALN-COV) siRNA candidate,Milken,,milkentreatment_102
+637,,Ampligen; (rintatolimod),Milken,,milkentreatment_103
+638,,"OT-101, a TGF-Beta antisense drug candidate",Milken,,milkentreatment_104
+639,,Inhaled mRNA,Milken,,milkentreatment_105
+640,,"Antisense oligonucleotides, peptide conjugated",Milken,,milkentreatment_106
+641,,Scanning library of antiviral compounds,Milken,,milkentreatment_107
+642,,Scanning compounds to repurpose,Milken,,milkentreatment_108
+643,,Scanning antiviral compounds previously in development,Milken,,milkentreatment_109
+644,,Scanning compounds to repurpose,Milken,,milkentreatment_110
+645,,Repurposing antiviral drug candidates,Milken,,milkentreatment_111
+646,,Screening new drugs + library of antiviral compounds,Milken,,milkentreatment_112
+647,,Screening drug compounds,Milken,,milkentreatment_113
+648,,Scanning compounds to repurpose,Milken,,milkentreatment_114
+649,,Scanning compounds to repurpose,Milken,,milkentreatment_115
+650,,Scanning compound libraries,Milken,,milkentreatment_116
+651,,Artificial intellegence-based screening to identify repurposed drug combinations,Milken,,milkentreatment_117
+652,,Identifying drugs to repurpose,Milken,,milkentreatment_118
+653,,Screening for antiviral drug candidates,Milken,,milkentreatment_119
+654,,Identifying drugs to repurpose,Milken,,milkentreatment_120
+655,,AI-based screening to identify a peptide cocktail,Milken,,milkentreatment_121
+656,,Identify anti-coronavirus compounds that target cellular host genes,Milken,,milkentreatment_122
+657,,Screening of drug compounds,Milken,,milkentreatment_123
+658,,Identify novel drugs,Milken,,milkentreatment_124
+659,,Methylprednisolone / ciclesonide (Alvesco)/ hydrocortisone/ corticosteroids,Milken,,milkentreatment_125
+660,,"Chloroquine/ Hydroxychloroquine, antimalarial",Milken,,milkentreatment_126
+661,,"camostat mesylate, transmembrane protease serine 2 (TMPRSS2) inhibitor, approved in Japan to treat multiple conditions including pancreatitis",Milken,,milkentreatment_127
+662,,Jakafi/jakavi (ruxolitinib),Milken,,milkentreatment_128
+663,,"interferon/peginterferon alpha-2b, PegIntron, Sylatron, IntronA, PegiHep",Milken,,milkentreatment_129
+664,,"Novaferon, Nova, interferon, licensed in China for Hepatitis B",Milken,,milkentreatment_130
+665,,Traumakine (interferon beta 1-a),Milken,,milkentreatment_131
+666,,Recombinant human interferon alpha-1b,Milken,,milkentreatment_132
+667,,"SNG001, inhaled formulation of interferon beta-1a",Milken,,milkentreatment_133
+668,,Peginterferon lambda,Milken,,milkentreatment_134
+669,,"Cerocal (ifenprodil), NP-120, an NDMA receptor glutamate receptor antagonist targeting Glu2NB",Milken,,milkentreatment_135
+670,,APN01; recombinant soluble human Angiotensin Converting Enzyme 2,Milken,,milkentreatment_136
+671,,"Brilacidin, a defensin mimetic",Milken,,milkentreatment_137
+672,,BXT-25; glycoprotein,Milken,,milkentreatment_138
+673,,Peptides targeting the NP protein,Milken,,milkentreatment_139
+674,,"BIO-11006, inhaled peptide",Milken,,milkentreatment_140
+675,,"Gilenya (fingolimod), sphingosine 1-phosphate receptor modulator",Milken,,milkentreatment_141
+676,,"WP1122, glucose decoy prodrug (and related drug candidates)",Milken,,milkentreatment_142
+677,,Rebif (interferon beta-1a),Milken,,milkentreatment_143
+678,,"nafamostat, approved in Japan to treat pancreatitis and other diseases",Milken,,milkentreatment_144
+679,,A number of synthesized nanoviricide drug candidates,Milken,,milkentreatment_145
+680,,"Cozaar (losartan), angiotensin II receptor blocker (ARB)",Milken,,milkentreatment_146
+681,,"Diovan (valsartan), angiotensin II receptor blocker (ARB)",Milken,,milkentreatment_147
+682,,Micardis (telmisartan),Milken,,milkentreatment_148
+683,,"Activase (alteplase), tissue plasminogen activator (tPA)",Milken,,milkentreatment_149
+684,,"Leukine (sargramostim, rhu-Granulocyte macrophage colony stimulating factor )",Milken,,milkentreatment_150
+685,,"Kineret (anakinra), interleukin-1 receptor antagonist",Milken,,milkentreatment_151
+686,,"AT-001, aldose reductase inhibitor",Milken,,milkentreatment_152
+687,,"Aplidin (plitidepsin), approved in Australia to treat multiple myeloma",Milken,,milkentreatment_153
+688,,"dipyridamole (Persantine), anticoagulant",Milken,,milkentreatment_154
+689,,recombinant human plasma gelsolin (rhu-pGSN),Milken,,milkentreatment_155
+690,,solnatide (synthetic molecule with a structure based on the lectin-like domain of human Tumour Necrosis Factor alpha),Milken,,milkentreatment_156
+691,,Nitric oxide,Milken,,milkentreatment_157
+692,,PP-001,Milken,,milkentreatment_158
+693,,ARMS-1,Milken,,milkentreatment_159
+694,,PUL-042 inhalation solution,Milken,,milkentreatment_160
+695,,"Olumiant (baricitinib), Janus kinase (JAK) inhibitor",Milken,,milkentreatment_161
+696,,"Xeljanz (tofacitinib), Janus kinase (JAK) inhibitor",Milken,,milkentreatment_162
+697,,colchicine,Milken,,milkentreatment_163
+698,,"heparin; low molecular weight heparin (enoxaparin), anticoagulant",Milken,,milkentreatment_164
+699,,"DSTAT (dociparstat sodium), glycosaminoglycan derivative of heparin",Milken,,milkentreatment_165
+700,,LAU-7b (fenretinide),Milken,,milkentreatment_166
+701,,ST-001 nanoFenretinide (fenretinide),Milken,,milkentreatment_167
+702,,"Xpovio (selinexor), oral, selective inhibitor of nuclear export (SINE) compound",Milken,,milkentreatment_168
+703,,"BLD-2660, synthetic small molecule inhibitor of calpain (CAPN) 1, 2, and 9",Milken,,milkentreatment_169
+704,,"Calquence (acalabrutinib), Bruton's tyrosine kinase (BTK) inhibitor",Milken,,milkentreatment_170
+705,,"CD24Fc, biological immunomodulator (nonpolymorphic regions of CD24 attached to the Fc region of human IgG1)",Milken,,milkentreatment_171
+706,,"Aviptadil, synthetic form of Vasoactive Intestinal Polypeptide",Milken,,milkentreatment_172
+707,,"vazegepant, CGRP receptor antagonist",Milken,,milkentreatment_173
+708,,"CM4620-IE, calcium release-activated calcium (CRAC) channel inhibtor",Milken,,milkentreatment_174
+709,,ivermectin,Milken,,milkentreatment_175
+710,,"nitazoxanide, antiprotozoal",Milken,,milkentreatment_176
+711,,"EPAspire, oral formulation of highly purified eicosapentaenoic acid free fatty acid (EPA-FFA) in gastro-resistant capsules",Milken,,milkentreatment_177
+712,,niclosamide,Milken,,milkentreatment_178
+713,,"ADX-629, orally available reactive aldehyde species (RASP) inhibitor",Milken,,milkentreatment_179
+714,,"ADX-1612, HSP 90 inhibitor",Milken,,milkentreatment_180
+715,,"N-803, IL-15 ""superagonist""",Milken,,milkentreatment_181
+716,,"piclidenoson, A3 adenosine receptor agonist",Milken,,milkentreatment_182
+717,,"Ryanodex (dantrolene sodium), skeletal muscle relaxant",Milken,,milkentreatment_183
+718,,Veyonda (idronoxil),Milken,,milkentreatment_184
+719,,"MRx-4DP0004, strain of Bifidobacterium breve isolated from the gut microbiome of a healthy human",Milken,,milkentreatment_185
+720,,"EDP1815, oral single strain of microbe",Milken,,milkentreatment_186
+721,,"roscovitine seliciclib, cyclin-dependent kinase (CDK)2/9 inhibitor",Milken,,milkentreatment_187
+722,,"fadraciclib (CYC065), cyclin-dependent kinase (CDK)2/9 inhibitor",Milken,,milkentreatment_188
+723,,"ATYR1923, fusion protein (immuno-modulatory domain of histidyl tRNA synthetase fused to the Fc region of a human antibody) modulator of neuropilin-2",Milken,,milkentreatment_189
+724,,"Farxiga (dapagliflozin), sodium-glucose cotransporter 2 (SGLTs) inhibitor",Milken,,milkentreatment_190
+725,,Ruconest (recombinant human C1 esterase inhibitor),Milken,,milkentreatment_191
+726,,"DIBI, iron-binding polymer",Milken,,milkentreatment_192
+727,,"brensocatib, oral, reversible inhibitor of dipeptidyl peptidase 1 (DPP1)",Milken,,milkentreatment_193
+728,,"Pepcid (famotidine), histamine-2 (H2) receptor antagonist",Milken,,milkentreatment_194
+729,,"tradipitant, a neurokinin-1 receptor antagonist",Milken,,milkentreatment_195
+730,,"GP1681, small molecule inhibitor of cytokine release",Milken,,milkentreatment_196
+731,,"Metablok, peptide",Milken,,milkentreatment_197
+732,,"pacritinib, oral kinase inhibitor with specificity for JAK2, IRAK1 and CSFIR",Milken,,milkentreatment_198
+733,,Microbiome therapeutic,Milken,,milkentreatment_199
+734,,"pH barrier, transepithelial nebulized alkaline treatment",Milken,,milkentreatment_200
+735,,"Coronzot, a novel family of drugs, sequestration of the labile iron",Milken,,milkentreatment_201
+736,,"Neumifil, multivalent carbohydrate binding molecules",Milken,,milkentreatment_202
+737,,"bemcentinib, selective AXL kinase inhibitor",Milken,,milkentreatment_203
+738,,"Otezla (apremilast), inhibitor of phosphodiesterase 4 (PDE4)",Milken,,milkentreatment_204
+739,,"MN-166 (ibudilast), orally bioavailable, small molecule macrophase migration inhibitory factor (MIF) inhibitor and phosphodiesterase (PDE) -4 and -10 inhibitor",Milken,,milkentreatment_205
+740,,"Yeliva (opaganib, ABC294640), oral sphingosine kinase-2 (SK2) selective inhibitor",Milken,,milkentreatment_206
+741,,"RHB-107 (upamostat, WX-671), serine protease inhibitor",Milken,,milkentreatment_207
+742,,"ST266, cell-free biologic made from anti-inflammatory proteins secreted by placental cells",Milken,,milkentreatment_208
+743,,"Lysteda/Cyklokapron (tranexamic acid), an antifibrinolytic",Milken,,milkentreatment_209
+744,,senicapoc,Milken,,milkentreatment_210
+745,,"Luvox (fluvoxamine), a selective serotonin reuptake inhibitor",Milken,,milkentreatment_211
+746,,"Gleevac (imatinib), kinase inhibitor",Milken,,milkentreatment_212
+747,,ABX464,Milken,,milkentreatment_213
+748,,"IMU-838, selective oral dihydroorotate dehydrogenase (DHODH) inhibitor",Milken,,milkentreatment_214
+749,,sPIF (synthetic pre implantation factor),Milken,,milkentreatment_215
+750,,"CytoSorb (blood purification device, extracorporeal cytokine adsorber))",Milken,,milkentreatment_216
+751,,Extracorporeal blood purification (EBP) devices,Milken,,milkentreatment_217
+752,,"Seraph100MicrobindAffinity Blood Filter (Seraphy 100), approved in the EU for pathogen reduction",Milken,,milkentreatment_218
+753,,Oxiris Blood Purification Filter,Milken,,milkentreatment_219
+754,,INOpulse,Milken,,milkentreatment_220
+755,,Hemolung Respiratory Assist System,Milken,,milkentreatment_221
+756,,"MultiFiltrate PRO System and multiBic/multiPlus Solutions, continuous renal replacement therapy (CRRT)",Milken,,milkentreatment_222
+757,,Washed microbiota transplantation,Milken,,milkentreatment_223
+758,,Recombinant ACE2 (angiotensin-converting enzyme 2),Milken,,milkentreatment_224
+759,,"Combination of ebastine, lopinavir, and interferon alpha",Milken,,milkentreatment_225
+760,,"Xofluza (baloxavir marboxil), polymerase acidic endonuclease inhibitor",Milken,,milkentreatment_226
+761,,"azvudine, reverse transcriptase inhibitor",Milken,,milkentreatment_227
+762,,DNA plasmid vaccine with electroporation; INO-4800,Milken,,milkenvaccine_000
+763,,DNA,Milken,,milkenvaccine_001
+764,,DNA with electroporation,Milken,,milkenvaccine_002
+765,,DNA plasmid,Milken,,milkenvaccine_003
+766,,DNA plasmid,Milken,,milkenvaccine_004
+767,,"DNA plasmid, needle-free delivery",Milken,,milkenvaccine_005
+768,,DNA,Milken,,milkenvaccine_006
+769,,DNA,Milken,,milkenvaccine_007
+770,,DNA,Milken,,milkenvaccine_008
+771,,DNA,Milken,,milkenvaccine_009
+772,,bacTRL-Spike,Milken,,milkenvaccine_010
+773,,Inactivated,Milken,,milkenvaccine_011
+774,,Inactivated (inactivated + alum); PiCoVacc,Milken,,milkenvaccine_012
+775,,Inactivated (inactivated + CpG 1018),Milken,,milkenvaccine_013
+776,,Inactivated,Milken,,milkenvaccine_014
+777,,Inactivated,Milken,,milkenvaccine_015
+778,,Inactivated,Milken,,milkenvaccine_016
+779,,"VLA2001, Inactivated + CpG 1018",Milken,,milkenvaccine_017
+780,,Inactivated,Milken,,milkenvaccine_018
+781,,Codon deoptimized live attenuated virus,Milken,,milkenvaccine_019
+782,,Codon deoptimized live attenuated virus,Milken,,milkenvaccine_020
+783,,"Live attenuated virus, measles virus (S, N targets)",Milken,,milkenvaccine_021
+784,,Non-replicating viral vector; MVA encoded VLP,Milken,,milkenvaccine_022
+785,,Non-replicating viral vector; Ad26 (alone or with MVA boost),Milken,,milkenvaccine_023
+786,,Non-replicating viral vector; replication defective simian adenovirus (GRAd) encoding SARS-CoV-2 S,Milken,,milkenvaccine_024
+787,,Non-replicating viral vector; Ad5,Milken,,milkenvaccine_025
+788,,Non-replicating viral vector; ChAdOx1,Milken,,milkenvaccine_026
+789,,Non-replicating viral vector; MVA-S encoded,Milken,,milkenvaccine_027
+790,,"AdCOVID; single-dose, intranasal vaccine; non replicating viral vector; adenovirus-based NasoVAX expressing spike protein",Milken,,milkenvaccine_028
+791,,Non-replicating viral vector; Ad5 S (GREVAX™ platform),Milken,,milkenvaccine_029
+792,,Oral Ad5 S,Milken,,milkenvaccine_030
+793,,Adenovirus-based + HLA-matched peptides (Pan-Corona),Milken,,milkenvaccine_031
+794,,"Non-replicating viral vector; Oral Vaccine
+ platform",Milken,,milkenvaccine_032
+795,,"Non-replicating viral vector, MVA expressing structural proteins",Milken,,milkenvaccine_033
+796,,Non-replicating viral vector; dendritic cell-based vaccine,Milken,,milkenvaccine_034
+797,,Non-replicating viral vector; parainfluenza virus 5 (PIV5)-based vaccine expressing the spike protein,Milken,,milkenvaccine_035
+798,,Non-replicating viral vector; Adenovirus Type 5 vector (Ad5-nCoV),Milken,,milkenvaccine_036
+799,,Recombinant deactivated rabies virus containing S1,Milken,,milkenvaccine_037
+800,,"Protein subunit, capsid-like particle (CLP)",Milken,,milkenvaccine_038
+801,,"Protein subunit, drosophila S2 insect cell expression system VLPs",Milken,,milkenvaccine_039
+802,,Protein subunit; S protein,Milken,,milkenvaccine_040
+803,,"Protein subunit, S protein + adjuvant",Milken,,milkenvaccine_041
+804,,"Protein subunit, VLP-recombinant protein + adjuvant",Milken,,milkenvaccine_042
+805,,"Protein subunit, native like trimeric subunit spike protein",Milken,,milkenvaccine_043
+806,,Protein subunit; peptide,Milken,,milkenvaccine_044
+807,,Protein subunit; adjuvanted protein subunit (RBD),Milken,,milkenvaccine_045
+808,,Protein subunit; S protein,Milken,,milkenvaccine_046
+809,,Protein subunit; recombinant spike protein with Advax adjuvant,Milken,,milkenvaccine_047
+810,,Protein subunit; Ii-Key peptide,Milken,,milkenvaccine_048
+811,,Protein subunit; S protein,Milken,,milkenvaccine_049
+812,,"PittCoVacc, Protein subunit, microneedle arrays S1 subunit",Milken,,milkenvaccine_050
+813,,Protein subunit; S protein,Milken,,milkenvaccine_051
+814,,Protein subunit; COVID-19 XWG-03 truncated Spike proteins,Milken,,milkenvaccine_052
+815,,"Protein subunit; S protein, baculovirus production",Milken,,milkenvaccine_053
+816,,"Protein subunit; recombinant protein vaccine, utilizing baculovirus expression vector system technology",Milken,,milkenvaccine_054
+817,,Protein subunit; NVX-CoV2373; Full length recombinant SARS COV-2 glycoprotein nanoparticle vaccine adjuvanted with Matrix M,Milken,,milkenvaccine_055
+818,,Protein subunit (gp-96 backbone),Milken,,milkenvaccine_056
+819,,Protein subunit; molecular clamp stabilized Spike protein,Milken,,milkenvaccine_057
+820,,Protein subunit; peptide vaccine,Milken,,milkenvaccine_058
+821,,Protein subunit; subunit vaccine,Milken,,milkenvaccine_059
+822,,Protein subunit; S1 or RBD protein,Milken,,milkenvaccine_060
+823,,"Protein subunit; Subunit protein, plant produced",Milken,,milkenvaccine_061
+824,,"Protein subunit, recombinant protein, nanoparticles (based on S-protein and other epitopes)",Milken,,milkenvaccine_062
+825,,"Protein subunit, adjuvanted microsphere peptide",Milken,,milkenvaccine_063
+826,,"Protein subunit, peptide",Milken,,milkenvaccine_064
+827,,"Protein subunit, synthetic long peptide vaccine candidate for S and M proteins",Milken,,milkenvaccine_065
+828,,Protein subunit; oral E. coli-based protein expression system of S and N proteins,Milken,,milkenvaccine_066
+829,,"Protein subunit, nanoparticle vaccine",Milken,,milkenvaccine_067
+830,,Protein subunit; spike based,Milken,,milkenvaccine_068
+831,,"Protein subunit, recombinant S1-Fc fusion protein",Milken,,milkenvaccine_069
+832,,"Protein subunit, recombinant protein",Milken,,milkenvaccine_070
+833,,"Protein subunit, recombinant S protein in IC-BEVS",Milken,,milkenvaccine_071
+834,,"Protein subunit; DPX-COVID-19, protein subunit, peptide antigens formulated in LNP",Milken,,milkenvaccine_072
+835,,Protein subunit; plant virus nanotechnology formulated as injectable and microneedle patch,Milken,,milkenvaccine_073
+836,,OMV-based vaccine,Milken,,milkenvaccine_074
+837,,OMV-based vaccine,Milken,,milkenvaccine_075
+838,,"Orally delivered, heat stable subunit",Milken,,milkenvaccine_076
+839,,S-2 P protein + CpG 1018,Milken,,milkenvaccine_077
+840,,Peptides derived from Spike protein,Milken,,milkenvaccine_078
+841,,Adjuvanted recombinant protein (RBD-Dimer),Milken,,milkenvaccine_079
+842,,RBD-based,Milken,,milkenvaccine_080
+843,,Outer Membrane Vesicle (OMV)-peptide,Milken,,milkenvaccine_081
+844,,Replicating viral vector; YF17D Vector,Milken,,milkenvaccine_082
+845,,Replicating viral vector; measles vector,Milken,,milkenvaccine_083
+846,,Replicating viral vector; measles vector,Milken,,milkenvaccine_084
+847,,Replicating viral vector; measles vector,Milken,,milkenvaccine_085
+848,,Replicating viral vector; horsepox vector expressing S protein; TNX-1800,Milken,,milkenvaccine_086
+849,,"Replicating viral vector, live viral vectored vaccine based on attenuated influenza virus backbone (intranasal)",Milken,,milkenvaccine_087
+850,,"Replicating viral vector, recombinant vaccine based on Influenza A virus, for the prevention of COVID-19 (intranasal)",Milken,,milkenvaccine_088
+851,,"Replicating viral vector, replication-competent VSV chimeric virus technology (VSVdeltaG) delivering the SARS-CoV-2 Spike (S) glycoprotein",Milken,,milkenvaccine_089
+852,,"Replicating viral vector, influenza vector expressing RBD",Milken,,milkenvaccine_090
+853,,Replicating viral vector; VSV-S,Milken,,milkenvaccine_091
+854,,Replicating viral vector; VSV vector,Milken,,milkenvaccine_092
+855,,M2-deficient single replication (M2SR) influenza vector,Milken,,milkenvaccine_093
+856,,Newcastle disease virus vector (NDV-SARS-CoV-2/Spike),Milken,,milkenvaccine_094
+857,,Avian paramyxovirus vector (APMV),Milken,,milkenvaccine_095
+858,,RNA; LNP-encapsulated mRNA cocktail encoding VLP,Milken,,milkenvaccine_096
+859,,RNA; LNP-encapsulated mRNA cocktail encoding RBD,Milken,,milkenvaccine_097
+860,,RNA; Replicating defective SARS-CoV-2 derived RNAs,Milken,,milkenvaccine_098
+861,,RNA; LNP-encapsulated mRNA,Milken,,milkenvaccine_099
+862,,RNA; several mRNA candidates,Milken,,milkenvaccine_100
+863,,RNA; mRNA,Milken,,milkenvaccine_101
+864,,RNA; mRNA,Milken,,milkenvaccine_102
+865,,RNA; mRNA lipid nanoparticle (mRNA-LNP),Milken,,milkenvaccine_103
+866,,RNA; LNP-encapsulated mRNA (mRNA 1273),Milken,,milkenvaccine_104
+867,,LUNAR-COV19; RNA; mRNA,Milken,,milkenvaccine_105
+868,,RNA; saRNA,Milken,,milkenvaccine_106
+869,,RNA; mRNA,Milken,,milkenvaccine_107
+870,,3 LNP-mRNAs; BNT162,Milken,,milkenvaccine_108
+871,,RNA; liposome-encapsulated mRNA,Milken,,milkenvaccine_109
+872,,LNP-mRNA,Milken,,milkenvaccine_110
+873,,RNA; mRNA in an intranasal delivery system (cross-strain protective COV-2 mRNA) vaccine for high-risk populations,Milken,,milkenvaccine_111
+874,,RNA,Milken,,milkenvaccine_112
+875,,"RNA; ZIP-1642, vaccine consists of a combination of mRNA molecules, encoding multiple SARS-CoV-2 antigens",Milken,,milkenvaccine_113
+876,,mRNA,Milken,,milkenvaccine_114
+877,,"VLP; virus-like particle, based on RBD displayed on virus-like particle",Milken,,milkenvaccine_115
+878,,VLP; plant-derived VLP,Milken,,milkenvaccine_116
+879,,VLP; ADDomerTM multiepitope display,Milken,,milkenvaccine_117
+880,,VLP,Milken,,milkenvaccine_118
+881,,VLP (COVID-19 and SARS1),Milken,,milkenvaccine_119
+882,,VLP; eVLP,Milken,,milkenvaccine_120
+883,,VLPs peptides/whole virus,Milken,,milkenvaccine_121
+884,,"Enveloped virus-like particle (eVLP): Pan-coronavirus vaccine candidate, targeting COVID-19, SARS, and MERS, spike protein",Milken,,milkenvaccine_122
+885,,"Gene-encoded antibody vaccine, non-viral nanoparticle delivery",Milken,,milkenvaccine_123
+886,,"Self-assembling vaccine (fusion protein of a heat shock protein and Avidin, with biotinylated immunogenic peptides)",Milken,,milkenvaccine_124
+887,,LV-SMENP-DC Dendritic cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins; administered with antigen-specific cytotoxic T lymphocytes,Milken,,milkenvaccine_125
+888,,Artificial antigen-presenting cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins,Milken,,milkenvaccine_126
+889,,ISR-50,Milken,,milkenvaccine_127
+890,,Unknown,Milken,,milkenvaccine_128
+891,,Unknown,Milken,,milkenvaccine_129
+892,,Unknown,Milken,,milkenvaccine_130
+893,,Unknown,Milken,,milkenvaccine_131
+894,,Unknown,Milken,,milkenvaccine_132
+895,,"Unknown, tobacco plant technology",Milken,,milkenvaccine_133
+896,,Unknown,Milken,,milkenvaccine_134
+897,,Unknown,Milken,,milkenvaccine_135
+898,,Unknown,Milken,,milkenvaccine_136
+899,,Unknown,Milken,,milkenvaccine_137
+900,,TerraCoV2,Milken,,milkenvaccine_138
+901,,AVI-205,Milken,,milkenvaccine_139
+902,,Recombinant LVS ΔcapB – vectored vaccine expressing multiple SARS-CoV-2 antigens,Milken,,milkenvaccine_140

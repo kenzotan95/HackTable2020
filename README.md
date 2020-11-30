@@ -1,5 +1,9 @@
 # Predict of India COVID-19 movements
 
+Hackathon Submission
+
+https://devpost.com/software/india-covid19-situation-prediction
+
 ## Inspiration
 
 ## What it does
